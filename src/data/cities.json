@@ -1,0 +1,4664 @@
+{
+  "departments": [
+    {
+      "code": "75",
+      "name": "Paris",
+      "slug": "taxi-conventionne-paris-75",
+      "metaTitle": "Taxi conventionné & VSL Paris (75) | VSL et transport médical",
+      "metaDescription": "Taxi conventionné & VSL à Paris (75). Transport médical assis vers hôpitaux et cliniques, tiers-payant selon éligibilité. Réservation 7j/7.",
+      "h1": "Taxi conventionné & VSL à Paris (75)",
+      "content": "<p>Notre service de taxi conventionné & VSL intervient dans tout Paris (75) et ses 20 arrondissements. Nous assurons vos déplacements de santé en transport assis professionnalisé (TAP) : consultations, examens (IRM, scanner), hospitalisations et soins réguliers.</p><p>Selon votre situation et sur prescription médicale de transport, vous pouvez bénéficier du tiers-payant (aucune avance de frais) pour vos trajets vers les hôpitaux et cliniques de Paris et d’Île-de-France. Réservation simple par téléphone ou en ligne.</p>",
+      "cities": [
+        {
+          "name": "Paris 1er",
+          "postalCode": "75001",
+          "slug": "paris-1er",
+          "localText": "Taxi conventionné et VSL à Paris 1er (75001) pour vos déplacements médicaux prescrits au cœur de la capitale. Notre service assure le transport sanitaire assis vers les hôpitaux, cliniques et centres spécialisés de Paris et d’Île-de-France. Depuis le 1er arrondissement, nous prenons en charge les consultations médicales, examens (IRM, scanner), hospitalisations, soins réguliers et sorties d’hôpital. Sur prescription médicale de transport, vous pouvez bénéficier du tiers-payant par l’Assurance Maladie selon votre situation (ALD, maternité, accident du travail). Nos chauffeurs expérimentés interviennent à Paris 1er avec ponctualité, discrétion et accompagnement personnalisé, 7 jours sur 7.",
+          "nearHospitals": [
+            "Pitié-Salpêtrière",
+            "Hôtel-Dieu",
+            "Hôpital Saint-Louis",
+            "Hôpital Cochin"
+          ],
+          "nearStations": [
+            "Gare de Lyon",
+            "Gare du Nord"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly",
+            "Aéroport Charles de Gaulle"
+          ],
+          "nearCities": [
+            "paris-17eme",
+            "paris-15eme",
+            "paris-14eme",
+            "paris-8eme"
+          ]
+        },
+        {
+          "name": "Paris 2ème",
+          "postalCode": "75002",
+          "slug": "paris-2eme",
+          "localText": "Taxi conventionné et VSL à Paris 2ème (75002) pour vos trajets médicaux prescrits dans le centre de Paris. Nous assurons le transport sanitaire assis vers les hôpitaux et cliniques parisiens ainsi que vers les établissements de santé d’Île-de-France. Depuis Paris 2e, nous prenons en charge consultations, examens médicaux, hospitalisations et soins réguliers. Sur prescription médicale, la prise en charge CPAM avec tiers-payant est possible selon votre situation.",
+          "nearHospitals": [
+            "Pitié-Salpêtrière",
+            "Hôtel-Dieu",
+            "Hôpital Saint-Louis",
+            "Hôpital Cochin"
+          ],
+          "nearStations": [
+            "Gare de Lyon"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly",
+            "Aéroport Charles de Gaulle"
+          ],
+          "nearCities": [
+            "paris-9eme",
+            "paris-6eme",
+            "paris-13eme",
+            "paris-11eme"
+          ]
+        },
+        {
+          "name": "Paris 3ème",
+          "postalCode": "75003",
+          "slug": "paris-3eme",
+          "localText": "Taxi conventionné et VSL à Paris 3ème (75003) pour vos déplacements médicaux vers les hôpitaux et cliniques de Paris et de la région Île-de-France. Depuis le 3e arrondissement, nous organisons vos trajets médicaux prescrits : consultations, examens (IRM, scanner), hospitalisations et soins réguliers. Sur prescription médicale de transport, vous pouvez bénéficier du tiers-payant par l’Assurance Maladie.",
+          "nearHospitals": [
+            "Pitié-Salpêtrière",
+            "Hôtel-Dieu",
+            "Hôpital Saint-Louis",
+            "Hôpital Cochin"
+          ],
+          "nearStations": [
+            "Gare de Lyon",
+            "Gare du Nord",
+            "Gare Saint-Lazare"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly",
+            "Aéroport Charles de Gaulle"
+          ],
+          "nearCities": [
+            "paris-18eme",
+            "paris-1er",
+            "paris-2eme"
+          ]
+        },
+        {
+          "name": "Paris 4ème",
+          "postalCode": "75004",
+          "slug": "paris-4eme",
+          "localText": "Taxi conventionné et VSL à Paris 4ème (75004) pour vos trajets médicaux prescrits vers les établissements de santé parisiens et franciliens. Nous assurons le transport sanitaire assis pour les consultations médicales, examens, hospitalisations et soins réguliers. Depuis Paris 4e, la prise en charge CPAM avec tiers-payant est possible selon prescription médicale.",
+          "nearHospitals": [
+            "Pitié-Salpêtrière",
+            "Hôtel-Dieu",
+            "Hôpital Saint-Louis",
+            "Hôpital Cochin"
+          ],
+          "nearStations": [
+            "Gare de Lyon"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly",
+            "Aéroport Charles de Gaulle"
+          ],
+          "nearCities": [
+            "paris-14eme",
+            "paris-12eme",
+            "paris-9eme"
+          ]
+        },
+        {
+          "name": "Paris 5ème",
+          "postalCode": "75005",
+          "slug": "paris-5eme",
+          "localText": "Taxi conventionné et VSL à Paris 5ème (75005) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques de Paris et d’Île-de-France. Depuis le 5e arrondissement, nous prenons en charge consultations, examens médicaux, hospitalisations et soins réguliers. Sur prescription médicale, vous pouvez bénéficier du tiers-payant par l’Assurance Maladie.",
+          "nearHospitals": [
+            "Pitié-Salpêtrière",
+            "Hôtel-Dieu"
+          ],
+          "nearStations": [
+            "Gare de Lyon"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly",
+            "Aéroport Charles de Gaulle"
+          ],
+          "nearCities": [
+            "paris-19eme",
+            "paris-18eme",
+            "paris-14eme",
+            "paris-15eme"
+          ]
+        },
+        {
+          "name": "Paris 6ème",
+          "postalCode": "75006",
+          "slug": "paris-6eme",
+          "localText": "Taxi conventionné et VSL à Paris 6ème (75006) pour vos trajets médicaux prescrits vers les centres hospitaliers et cliniques parisiens. Nous assurons le transport sanitaire assis pour les consultations, examens médicaux, hospitalisations et soins réguliers. Depuis Paris 6e, la prise en charge CPAM avec tiers-payant est possible selon prescription médicale.",
+          "nearHospitals": [
+            "Pitié-Salpêtrière",
+            "Hôtel-Dieu",
+            "Hôpital Saint-Louis"
+          ],
+          "nearStations": [
+            "Gare de Lyon",
+            "Gare du Nord"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly",
+            "Aéroport Charles de Gaulle"
+          ],
+          "nearCities": [
+            "paris-9eme",
+            "paris-16eme",
+            "paris-2eme",
+            "paris-19eme",
+            "paris-11eme"
+          ]
+        },
+        {
+          "name": "Paris 7ème",
+          "postalCode": "75007",
+          "slug": "paris-7eme",
+          "localText": "Taxi conventionné et VSL à Paris 7ème (75007) pour vos déplacements médicaux prescrits vers les établissements de santé de Paris et de l’Île-de-France. Nous prenons en charge consultations médicales, examens, hospitalisations et soins réguliers. Sur prescription médicale de transport, vous pouvez bénéficier du tiers-payant par l’Assurance Maladie.",
+          "nearHospitals": [
+            "Pitié-Salpêtrière",
+            "Hôtel-Dieu",
+            "Hôpital Saint-Louis"
+          ],
+          "nearStations": [
+            "Gare de Lyon",
+            "Gare du Nord",
+            "Gare Saint-Lazare"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly",
+            "Aéroport Charles de Gaulle"
+          ],
+          "nearCities": [
+            "paris-6eme",
+            "paris-15eme",
+            "paris-1er"
+          ]
+        },
+        {
+          "name": "Paris 8ème",
+          "postalCode": "75008",
+          "slug": "paris-8eme",
+          "localText": "Taxi conventionné et VSL à Paris 8ème (75008) pour vos trajets médicaux prescrits vers les hôpitaux et cliniques parisiens. Depuis le 8e arrondissement, nous assurons le transport sanitaire assis pour consultations, examens médicaux, hospitalisations et soins réguliers.",
+          "nearHospitals": [
+            "Hôpital Georges Pompidou",
+            "Hôpital Necker",
+            "Institut Curie"
+          ],
+          "nearStations": [
+            "Gare Saint-Lazare",
+            "Gare Montparnasse"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly"
+          ],
+          "nearCities": [
+            "paris-14eme",
+            "paris-7eme",
+            "paris-19eme"
+          ]
+        },
+        {
+          "name": "Paris 9ème",
+          "postalCode": "75009",
+          "slug": "paris-9eme",
+          "localText": "Taxi conventionné et VSL à Paris 9ème (75009) pour vos déplacements médicaux prescrits vers les établissements de santé de Paris et d’Île-de-France. Nous assurons les consultations médicales, examens, hospitalisations et soins réguliers. Sur prescription médicale, vous pouvez bénéficier du tiers-payant par l’Assurance Maladie.",
+          "nearHospitals": [
+            "Hôpital Georges Pompidou",
+            "Hôpital Necker",
+            "Institut Curie",
+            "Hôpital Foch"
+          ],
+          "nearStations": [
+            "Gare Saint-Lazare"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly"
+          ],
+          "nearCities": [
+            "paris-7eme",
+            "paris-20eme",
+            "paris-14eme",
+            "paris-18eme"
+          ]
+        },
+        {
+          "name": "Paris 10ème",
+          "postalCode": "75010",
+          "slug": "paris-10eme",
+          "localText": "Taxi conventionné et VSL à Paris 10ème (75010) pour vos trajets médicaux prescrits vers les hôpitaux et cliniques parisiens. Nous prenons en charge consultations, examens médicaux, hospitalisations et soins réguliers.",
+          "nearHospitals": [
+            "Hôpital Bichat",
+            "Hôpital Lariboisière"
+          ],
+          "nearStations": [
+            "Gare du Nord",
+            "Gare de l'Est"
+          ],
+          "nearAirports": [
+            "Aéroport Charles de Gaulle",
+            "Aéroport du Bourget"
+          ],
+          "nearCities": [
+            "paris-15eme",
+            "paris-7eme",
+            "paris-11eme"
+          ]
+        },
+        {
+          "name": "Paris 11ème",
+          "postalCode": "75011",
+          "slug": "paris-11eme",
+          "localText": "Taxi conventionné et VSL à Paris 11ème (75011) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques de Paris et d’Île-de-France. Nous assurons le transport sanitaire assis pour consultations, examens médicaux, hospitalisations et soins réguliers.",
+          "nearHospitals": [
+            "Hôpital Tenon",
+            "Hôpital Saint-Antoine",
+            "Hôpital Trousseau"
+          ],
+          "nearStations": [
+            "Gare de Lyon",
+            "Gare de l'Est"
+          ],
+          "nearAirports": [
+            "Aéroport Charles de Gaulle"
+          ],
+          "nearCities": [
+            "paris-4eme",
+            "paris-20eme",
+            "paris-9eme",
+            "paris-7eme"
+          ]
+        },
+        {
+          "name": "Paris 12ème",
+          "postalCode": "75012",
+          "slug": "paris-12eme",
+          "localText": "Taxi conventionné et VSL à Paris 12ème (75012) pour vos trajets médicaux prescrits vers les établissements de santé parisiens et franciliens. Nous prenons en charge consultations, examens médicaux, hospitalisations et soins réguliers.",
+          "nearHospitals": [
+            "Hôpital Tenon",
+            "Hôpital Saint-Antoine",
+            "Hôpital Trousseau"
+          ],
+          "nearStations": [
+            "Gare de Lyon"
+          ],
+          "nearAirports": [
+            "Aéroport Charles de Gaulle"
+          ],
+          "nearCities": [
+            "paris-11eme",
+            "paris-13eme",
+            "paris-1er",
+            "paris-7eme",
+            "paris-5eme"
+          ]
+        },
+        {
+          "name": "Paris 13ème",
+          "postalCode": "75013",
+          "slug": "paris-13eme",
+          "localText": "Taxi conventionné et VSL à Paris 13ème (75013) pour vos déplacements médicaux prescrits vers les hôpitaux et centres spécialisés de Paris et d’Île-de-France. Nous organisons les trajets pour consultations, examens médicaux, hospitalisations et soins réguliers.",
+          "nearHospitals": [
+            "Hôpital Cochin",
+            "Institut Gustave Roussy"
+          ],
+          "nearStations": [
+            "Gare Montparnasse"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly"
+          ],
+          "nearCities": [
+            "paris-16eme",
+            "paris-5eme",
+            "paris-3eme"
+          ]
+        },
+        {
+          "name": "Paris 14ème",
+          "postalCode": "75014",
+          "slug": "paris-14eme",
+          "localText": "Taxi conventionné et VSL à Paris 14ème (75014) pour vos trajets médicaux prescrits vers les établissements de santé parisiens et d’Île-de-France. Nous assurons le transport sanitaire assis pour consultations, examens médicaux et hospitalisations.",
+          "nearHospitals": [
+            "Hôpital Cochin",
+            "Institut Gustave Roussy",
+            "Hôpital Bicêtre",
+            "Hôpital Paul Brousse"
+          ],
+          "nearStations": [
+            "Gare Montparnasse",
+            "Gare d'Austerlitz"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly"
+          ],
+          "nearCities": [
+            "paris-15eme",
+            "paris-7eme",
+            "paris-10eme"
+          ]
+        },
+        {
+          "name": "Paris 15ème",
+          "postalCode": "75015",
+          "slug": "paris-15eme",
+          "localText": "Taxi conventionné et VSL à Paris 15ème (75015) pour vos déplacements médicaux prescrits vers les hôpitaux, cliniques et centres de soins de Paris et d’Île-de-France. Nous prenons en charge consultations médicales, examens et soins réguliers.",
+          "nearHospitals": [
+            "Hôpital Cochin",
+            "Institut Gustave Roussy",
+            "Hôpital Bicêtre",
+            "Hôpital Paul Brousse"
+          ],
+          "nearStations": [
+            "Gare Montparnasse"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly"
+          ],
+          "nearCities": [
+            "paris-4eme",
+            "paris-20eme",
+            "paris-11eme",
+            "paris-3eme",
+            "paris-6eme"
+          ]
+        },
+        {
+          "name": "Paris 16ème",
+          "postalCode": "75016",
+          "slug": "paris-16eme",
+          "localText": "Taxi conventionné et VSL à Paris 16ème (75016) pour vos trajets médicaux prescrits vers les établissements de santé parisiens et franciliens. Nous assurons le transport sanitaire assis pour consultations, examens médicaux et hospitalisations.",
+          "nearHospitals": [
+            "Hôpital Georges Pompidou",
+            "Hôpital Necker",
+            "Institut Curie"
+          ],
+          "nearStations": [
+            "Gare Saint-Lazare",
+            "Gare Montparnasse"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly"
+          ],
+          "nearCities": [
+            "paris-19eme",
+            "paris-10eme",
+            "paris-18eme",
+            "paris-5eme"
+          ]
+        },
+        {
+          "name": "Paris 17ème",
+          "postalCode": "75017",
+          "slug": "paris-17eme",
+          "localText": "Taxi conventionné et VSL à Paris 17ème (75017) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques de Paris et d’Île-de-France. Nous prenons en charge consultations médicales, examens et soins réguliers.",
+          "nearHospitals": [
+            "Hôpital Georges Pompidou",
+            "Hôpital Necker"
+          ],
+          "nearStations": [
+            "Gare Saint-Lazare",
+            "Gare Montparnasse"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly"
+          ],
+          "nearCities": [
+            "paris-1er",
+            "paris-4eme",
+            "paris-19eme"
+          ]
+        },
+        {
+          "name": "Paris 18ème",
+          "postalCode": "75018",
+          "slug": "paris-18eme",
+          "localText": "Taxi conventionné et VSL à Paris 18ème (75018) pour vos trajets médicaux prescrits vers les établissements de santé de Paris et d’Île-de-France. Nous assurons le transport sanitaire assis pour consultations, examens médicaux et sorties d’hôpital.",
+          "nearHospitals": [
+            "Hôpital Bichat",
+            "Hôpital Lariboisière"
+          ],
+          "nearStations": [
+            "Gare du Nord",
+            "Gare de l'Est"
+          ],
+          "nearAirports": [
+            "Aéroport Charles de Gaulle",
+            "Aéroport du Bourget"
+          ],
+          "nearCities": [
+            "paris-4eme",
+            "paris-3eme",
+            "paris-15eme",
+            "paris-17eme",
+            "paris-11eme"
+          ]
+        },
+        {
+          "name": "Paris 19ème",
+          "postalCode": "75019",
+          "slug": "paris-19eme",
+          "localText": "Taxi conventionné et VSL à Paris 19ème (75019) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques parisiens. Nous assurons le transport sanitaire assis pour consultations médicales, examens et soins réguliers.",
+          "nearHospitals": [
+            "Hôpital Bichat",
+            "Hôpital Lariboisière",
+            "Hôpital Saint-Louis"
+          ],
+          "nearStations": [
+            "Gare du Nord",
+            "Gare de l'Est"
+          ],
+          "nearAirports": [
+            "Aéroport Charles de Gaulle",
+            "Aéroport du Bourget"
+          ],
+          "nearCities": [
+            "paris-14eme",
+            "paris-1er",
+            "paris-4eme",
+            "paris-17eme",
+            "paris-13eme"
+          ]
+        },
+        {
+          "name": "Paris 20ème",
+          "postalCode": "75020",
+          "slug": "paris-20eme",
+          "localText": "Taxi conventionné et VSL à Paris 20ème (75020) pour vos trajets médicaux prescrits vers les établissements de santé de Paris et d’Île-de-France. Nous prenons en charge consultations médicales, examens et hospitalisations.",
+          "nearHospitals": [
+            "Hôpital Tenon",
+            "Hôpital Saint-Antoine"
+          ],
+          "nearStations": [
+            "Gare de Lyon",
+            "Gare de l'Est"
+          ],
+          "nearAirports": [
+            "Aéroport Charles de Gaulle"
+          ],
+          "nearCities": [
+            "paris-3eme",
+            "paris-2eme",
+            "paris-19eme"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "91",
+      "name": "Essonne",
+      "slug": "taxi-conventionne-essonne-91",
+      "metaTitle": "Taxi conventionné & VSL Essonne (91) | VSL et transport médical",
+      "metaDescription": "Taxi conventionné & VSL en Essonne (91). Transport médical assis vers hôpitaux et cliniques, tiers-payant selon prescription. Réservation 7j/7.",
+      "h1": "Taxi conventionné & VSL en Essonne (91)",
+      "content": "<p>Notre service de taxi conventionné & VSL dessert l’ensemble de l’Essonne (91). Nous assurons vos trajets médicaux en transport assis : consultations, examens, hospitalisations, rééducation et soins réguliers.</p><p>Sur prescription médicale de transport et selon votre situation (ALD, accident du travail, maternité, etc.), vous pouvez bénéficier du tiers-payant.</p>",
+      "cities": [
+        {
+          "name": "Évry-Courcouronnes",
+          "postalCode": "91000",
+          "slug": "evry-courcouronnes",
+          "localText": "Taxi conventionné et VSL à Évry-Courcouronnes (91000) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques de l'Essonne et d'Île-de-France.",
+          "nearHospitals": [
+            "Hôpital Cochin",
+            "Institut Gustave Roussy",
+            "Hôpital Bicêtre",
+            "Hôpital Paul Brousse"
+          ],
+          "nearStations": [
+            "Gare Montparnasse",
+            "Gare d'Austerlitz"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly"
+          ],
+          "nearCities": [
+            "palaiseau",
+            "mennecy",
+            "savigny-sur-orge"
+          ]
+        },
+        {
+          "name": "Corbeil-Essonnes",
+          "postalCode": "91100",
+          "slug": "corbeil-essonnes",
+          "localText": "Taxi conventionné et VSL à Corbeil-Essonnes (91100) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques de l'Essonne et d'Île-de-France.",
+          "nearHospitals": [
+            "Hôpital Cochin",
+            "Institut Gustave Roussy",
+            "Hôpital Bicêtre"
+          ],
+          "nearStations": [
+            "Gare Montparnasse",
+            "Gare d'Austerlitz"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly"
+          ],
+          "nearCities": [
+            "paray-vieille-poste",
+            "quincy-sous-senart",
+            "longjumeau"
+          ]
+        },
+        {
+          "name": "Massy",
+          "postalCode": "91300",
+          "slug": "massy",
+          "localText": "Taxi conventionné et VSL à Massy (91300) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques de l'Essonne et d'Île-de-France.",
+          "nearHospitals": [
+            "Hôpital Cochin",
+            "Institut Gustave Roussy",
+            "Hôpital Bicêtre",
+            "Hôpital Paul Brousse"
+          ],
+          "nearStations": [
+            "Gare Montparnasse",
+            "Gare d'Austerlitz"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly"
+          ],
+          "nearCities": [
+            "montgeron",
+            "evry-courcouronnes",
+            "soisy-sur-seine"
+          ]
+        },
+        {
+          "name": "Savigny-sur-Orge",
+          "postalCode": "91600",
+          "slug": "savigny-sur-orge",
+          "localText": "Taxi conventionné et VSL à Savigny-sur-Orge (91600) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques de l'Essonne et d'Île-de-France.",
+          "nearHospitals": [
+            "Hôpital Cochin",
+            "Institut Gustave Roussy"
+          ],
+          "nearStations": [
+            "Gare Montparnasse"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly"
+          ],
+          "nearCities": [
+            "evry-courcouronnes",
+            "verrieres-le-buisson",
+            "viry-chatillon"
+          ]
+        },
+        {
+          "name": "Sainte-Geneviève-des-Bois",
+          "postalCode": "91700",
+          "slug": "sainte-genevieve-des-bois",
+          "localText": "Taxi conventionné et VSL à Sainte-Geneviève-des-Bois (91700) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques de l'Essonne et d'Île-de-France.",
+          "nearHospitals": [
+            "Hôpital Cochin",
+            "Institut Gustave Roussy"
+          ],
+          "nearStations": [
+            "Gare Montparnasse",
+            "Gare d'Austerlitz"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly"
+          ],
+          "nearCities": [
+            "orsay",
+            "ris-orangis",
+            "chilly-mazarin",
+            "soisy-sur-seine",
+            "savigny-sur-orge"
+          ]
+        },
+        {
+          "name": "Brunoy",
+          "postalCode": "91800",
+          "slug": "brunoy",
+          "localText": "Taxi conventionné et VSL à Brunoy (91800) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques de l'Essonne et d'Île-de-France.",
+          "nearHospitals": [
+            "Hôpital Cochin",
+            "Institut Gustave Roussy",
+            "Hôpital Bicêtre",
+            "Hôpital Paul Brousse"
+          ],
+          "nearStations": [
+            "Gare Montparnasse"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly"
+          ],
+          "nearCities": [
+            "yerres",
+            "evry-courcouronnes",
+            "verrieres-le-buisson"
+          ]
+        },
+        {
+          "name": "Draveil",
+          "postalCode": "91210",
+          "slug": "draveil",
+          "localText": "Taxi conventionné et VSL à Draveil (91210) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques de l'Essonne et d'Île-de-France.",
+          "nearHospitals": [
+            "Hôpital Cochin",
+            "Institut Gustave Roussy",
+            "Hôpital Bicêtre",
+            "Hôpital Paul Brousse"
+          ],
+          "nearStations": [
+            "Gare Montparnasse"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly"
+          ],
+          "nearCities": [
+            "viry-chatillon",
+            "ris-orangis",
+            "champlan",
+            "etampes"
+          ]
+        },
+        {
+          "name": "Viry-Châtillon",
+          "postalCode": "91170",
+          "slug": "viry-chatillon",
+          "localText": "Taxi conventionné et VSL à Viry-Châtillon (91170) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques de l'Essonne et d'Île-de-France.",
+          "nearHospitals": [
+            "Hôpital Cochin",
+            "Institut Gustave Roussy",
+            "Hôpital Bicêtre"
+          ],
+          "nearStations": [
+            "Gare Montparnasse",
+            "Gare d'Austerlitz"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly"
+          ],
+          "nearCities": [
+            "bondoufle",
+            "brunoy",
+            "bures-sur-yvette"
+          ]
+        },
+        {
+          "name": "Athis-Mons",
+          "postalCode": "91200",
+          "slug": "athis-mons",
+          "localText": "Taxi conventionné et VSL à Athis-Mons (91200) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques de l'Essonne et d'Île-de-France.",
+          "nearHospitals": [
+            "Hôpital Cochin",
+            "Institut Gustave Roussy",
+            "Hôpital Bicêtre"
+          ],
+          "nearStations": [
+            "Gare Montparnasse"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly"
+          ],
+          "nearCities": [
+            "palaiseau",
+            "evry-courcouronnes",
+            "corbeil-essonnes",
+            "boussy-saint-antoine",
+            "morsang-sur-orge"
+          ]
+        },
+        {
+          "name": "Juvisy-sur-Orge",
+          "postalCode": "91260",
+          "slug": "juvisy-sur-orge",
+          "localText": "Taxi conventionné et VSL à Juvisy-sur-Orge (91260) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques de l'Essonne et d'Île-de-France.",
+          "nearHospitals": [
+            "Hôpital Cochin",
+            "Institut Gustave Roussy",
+            "Hôpital Bicêtre",
+            "Hôpital Paul Brousse"
+          ],
+          "nearStations": [
+            "Gare Montparnasse",
+            "Gare d'Austerlitz"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly"
+          ],
+          "nearCities": [
+            "quincy-sous-senart",
+            "les-ulis",
+            "soisy-sur-seine",
+            "dourdan",
+            "evry-courcouronnes"
+          ]
+        },
+        {
+          "name": "Yerres",
+          "postalCode": "91330",
+          "slug": "yerres",
+          "localText": "Taxi conventionné et VSL à Yerres (91330) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques de l'Essonne et d'Île-de-France.",
+          "nearHospitals": [
+            "Hôpital Cochin",
+            "Institut Gustave Roussy",
+            "Hôpital Bicêtre"
+          ],
+          "nearStations": [
+            "Gare Montparnasse",
+            "Gare d'Austerlitz"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly"
+          ],
+          "nearCities": [
+            "bures-sur-yvette",
+            "dourdan",
+            "evry-courcouronnes",
+            "corbeil-essonnes"
+          ]
+        },
+        {
+          "name": "Palaiseau",
+          "postalCode": "91120",
+          "slug": "palaiseau",
+          "localText": "Taxi conventionné et VSL à Palaiseau (91120) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques de l'Essonne et d'Île-de-France.",
+          "nearHospitals": [
+            "Hôpital Cochin",
+            "Institut Gustave Roussy",
+            "Hôpital Bicêtre"
+          ],
+          "nearStations": [
+            "Gare Montparnasse",
+            "Gare d'Austerlitz"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly"
+          ],
+          "nearCities": [
+            "vigneux-sur-seine",
+            "quincy-sous-senart",
+            "villemoisson-sur-orge",
+            "limours",
+            "epinay-sous-senart"
+          ]
+        },
+        {
+          "name": "Chilly-Mazarin",
+          "postalCode": "91380",
+          "slug": "chilly-mazarin",
+          "localText": "Taxi conventionné et VSL à Chilly-Mazarin (91380) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques de l'Essonne et d'Île-de-France.",
+          "nearHospitals": [
+            "Hôpital Cochin",
+            "Institut Gustave Roussy"
+          ],
+          "nearStations": [
+            "Gare Montparnasse",
+            "Gare d'Austerlitz"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly"
+          ],
+          "nearCities": [
+            "morangis",
+            "limours",
+            "fleury-merogis",
+            "ballainvilliers",
+            "epinay-sous-senart"
+          ]
+        },
+        {
+          "name": "Longjumeau",
+          "postalCode": "91160",
+          "slug": "longjumeau",
+          "localText": "Taxi conventionné et VSL à Longjumeau (91160) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques de l'Essonne et d'Île-de-France.",
+          "nearHospitals": [
+            "Hôpital Cochin",
+            "Institut Gustave Roussy"
+          ],
+          "nearStations": [
+            "Gare Montparnasse"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly"
+          ],
+          "nearCities": [
+            "yerres",
+            "draveil",
+            "palaiseau",
+            "villebon-sur-yvette",
+            "bures-sur-yvette"
+          ]
+        },
+        {
+          "name": "Ris-Orangis",
+          "postalCode": "91130",
+          "slug": "ris-orangis",
+          "localText": "Taxi conventionné et VSL à Ris-Orangis (91130) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques de l'Essonne et d'Île-de-France.",
+          "nearHospitals": [
+            "Hôpital Cochin",
+            "Institut Gustave Roussy"
+          ],
+          "nearStations": [
+            "Gare Montparnasse",
+            "Gare d'Austerlitz"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly"
+          ],
+          "nearCities": [
+            "paray-vieille-poste",
+            "limours",
+            "soisy-sur-seine",
+            "quincy-sous-senart"
+          ]
+        },
+        {
+          "name": "Étampes",
+          "postalCode": "91150",
+          "slug": "etampes",
+          "localText": "Taxi conventionné et VSL à Étampes (91150) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques de l'Essonne et d'Île-de-France.",
+          "nearHospitals": [
+            "Hôpital Cochin",
+            "Institut Gustave Roussy"
+          ],
+          "nearStations": [
+            "Gare Montparnasse",
+            "Gare d'Austerlitz"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly"
+          ],
+          "nearCities": [
+            "montgeron",
+            "evry-courcouronnes",
+            "fleury-merogis",
+            "morangis"
+          ]
+        },
+        {
+          "name": "Grigny",
+          "postalCode": "91350",
+          "slug": "grigny",
+          "localText": "Taxi conventionné et VSL à Grigny (91350) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques de l'Essonne et d'Île-de-France.",
+          "nearHospitals": [
+            "Hôpital Cochin",
+            "Institut Gustave Roussy"
+          ],
+          "nearStations": [
+            "Gare Montparnasse"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly"
+          ],
+          "nearCities": [
+            "chilly-mazarin",
+            "longjumeau",
+            "montgeron"
+          ]
+        },
+        {
+          "name": "Les Ulis",
+          "postalCode": "91940",
+          "slug": "les-ulis",
+          "localText": "Taxi conventionné et VSL à Les Ulis (91940) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques de l'Essonne et d'Île-de-France.",
+          "nearHospitals": [
+            "Hôpital Cochin",
+            "Institut Gustave Roussy"
+          ],
+          "nearStations": [
+            "Gare Montparnasse"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly"
+          ],
+          "nearCities": [
+            "arpajon",
+            "montgeron",
+            "linas",
+            "quincy-sous-senart"
+          ]
+        },
+        {
+          "name": "Montgeron",
+          "postalCode": "91230",
+          "slug": "montgeron",
+          "localText": "Taxi conventionné et VSL à Montgeron (91230) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques de l'Essonne et d'Île-de-France.",
+          "nearHospitals": [
+            "Hôpital Cochin",
+            "Institut Gustave Roussy",
+            "Hôpital Bicêtre"
+          ],
+          "nearStations": [
+            "Gare Montparnasse",
+            "Gare d'Austerlitz"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly"
+          ],
+          "nearCities": [
+            "orsay",
+            "soisy-sur-seine",
+            "lisses"
+          ]
+        },
+        {
+          "name": "Orsay",
+          "postalCode": "91400",
+          "slug": "orsay",
+          "localText": "Taxi conventionné et VSL à Orsay (91400) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques de l'Essonne et d'Île-de-France.",
+          "nearHospitals": [
+            "Hôpital Cochin",
+            "Institut Gustave Roussy"
+          ],
+          "nearStations": [
+            "Gare Montparnasse",
+            "Gare d'Austerlitz"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly"
+          ],
+          "nearCities": [
+            "soisy-sur-seine",
+            "evry-courcouronnes",
+            "quincy-sous-senart",
+            "savigny-sur-orge"
+          ]
+        },
+        {
+          "name": "Gif-sur-Yvette",
+          "postalCode": "91190",
+          "slug": "gif-sur-yvette",
+          "localText": "Taxi conventionné et VSL à Gif-sur-Yvette (91190) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques de l'Essonne et d'Île-de-France.",
+          "nearHospitals": [
+            "Hôpital Cochin",
+            "Institut Gustave Roussy"
+          ],
+          "nearStations": [
+            "Gare Montparnasse",
+            "Gare d'Austerlitz"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly"
+          ],
+          "nearCities": [
+            "verrieres-le-buisson",
+            "soisy-sur-seine",
+            "massy",
+            "bures-sur-yvette",
+            "ris-orangis"
+          ]
+        },
+        {
+          "name": "Villebon-sur-Yvette",
+          "postalCode": "91140",
+          "slug": "villebon-sur-yvette",
+          "localText": "Taxi conventionné et VSL à Villebon-sur-Yvette (91140) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques de l'Essonne et d'Île-de-France.",
+          "nearHospitals": [
+            "Hôpital Cochin",
+            "Institut Gustave Roussy"
+          ],
+          "nearStations": [
+            "Gare Montparnasse"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly"
+          ],
+          "nearCities": [
+            "palaiseau",
+            "quincy-sous-senart",
+            "villemoisson-sur-orge",
+            "ris-orangis"
+          ]
+        },
+        {
+          "name": "Brétigny-sur-Orge",
+          "postalCode": "91220",
+          "slug": "bretigny-sur-orge",
+          "localText": "Taxi conventionné et VSL à Brétigny-sur-Orge (91220) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques de l'Essonne et d'Île-de-France.",
+          "nearHospitals": [
+            "Hôpital Cochin",
+            "Institut Gustave Roussy",
+            "Hôpital Bicêtre"
+          ],
+          "nearStations": [
+            "Gare Montparnasse",
+            "Gare d'Austerlitz"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly"
+          ],
+          "nearCities": [
+            "lisses",
+            "milly-la-foret",
+            "linas",
+            "sainte-genevieve-des-bois",
+            "paray-vieille-poste"
+          ]
+        },
+        {
+          "name": "Épinay-sous-Sénart",
+          "postalCode": "91860",
+          "slug": "epinay-sous-senart",
+          "localText": "Taxi conventionné et VSL à Épinay-sous-Sénart (91860) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques de l'Essonne et d'Île-de-France.",
+          "nearHospitals": [
+            "Hôpital Cochin",
+            "Institut Gustave Roussy"
+          ],
+          "nearStations": [
+            "Gare Montparnasse",
+            "Gare d'Austerlitz"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly"
+          ],
+          "nearCities": [
+            "juvisy-sur-orge",
+            "longjumeau",
+            "bretigny-sur-orge",
+            "wissous"
+          ]
+        },
+        {
+          "name": "Fleury-Mérogis",
+          "postalCode": "91700",
+          "slug": "fleury-merogis",
+          "localText": "Taxi conventionné et VSL à Fleury-Mérogis (91700) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques de l'Essonne et d'Île-de-France.",
+          "nearHospitals": [
+            "Hôpital Cochin",
+            "Institut Gustave Roussy",
+            "Hôpital Bicêtre"
+          ],
+          "nearStations": [
+            "Gare Montparnasse"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly"
+          ],
+          "nearCities": [
+            "athis-mons",
+            "gif-sur-yvette",
+            "champlan",
+            "savigny-sur-orge"
+          ]
+        },
+        {
+          "name": "Vigneux-sur-Seine",
+          "postalCode": "91270",
+          "slug": "vigneux-sur-seine",
+          "localText": "Taxi conventionné et VSL à Vigneux-sur-Seine (91270) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques de l'Essonne et d'Île-de-France.",
+          "nearHospitals": [
+            "Hôpital Cochin",
+            "Institut Gustave Roussy",
+            "Hôpital Bicêtre"
+          ],
+          "nearStations": [
+            "Gare Montparnasse"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly"
+          ],
+          "nearCities": [
+            "viry-chatillon",
+            "morsang-sur-orge",
+            "longjumeau",
+            "palaiseau"
+          ]
+        },
+        {
+          "name": "Morsang-sur-Orge",
+          "postalCode": "91390",
+          "slug": "morsang-sur-orge",
+          "localText": "Taxi conventionné et VSL à Morsang-sur-Orge (91390) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques de l'Essonne et d'Île-de-France.",
+          "nearHospitals": [
+            "Hôpital Cochin",
+            "Institut Gustave Roussy"
+          ],
+          "nearStations": [
+            "Gare Montparnasse"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly"
+          ],
+          "nearCities": [
+            "grigny",
+            "orsay",
+            "les-ulis",
+            "draveil",
+            "dourdan"
+          ]
+        },
+        {
+          "name": "Épinay-sur-Orge",
+          "postalCode": "91360",
+          "slug": "epinay-sur-orge",
+          "localText": "Taxi conventionné et VSL à Épinay-sur-Orge (91360) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques de l'Essonne et d'Île-de-France.",
+          "nearHospitals": [
+            "Hôpital Cochin",
+            "Institut Gustave Roussy",
+            "Hôpital Bicêtre",
+            "Hôpital Paul Brousse"
+          ],
+          "nearStations": [
+            "Gare Montparnasse"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly"
+          ],
+          "nearCities": [
+            "soisy-sur-seine",
+            "villebon-sur-yvette",
+            "gif-sur-yvette",
+            "sainte-genevieve-des-bois",
+            "dourdan"
+          ]
+        },
+        {
+          "name": "Saint-Michel-sur-Orge",
+          "postalCode": "91240",
+          "slug": "saint-michel-sur-orge",
+          "localText": "Taxi conventionné et VSL à Saint-Michel-sur-Orge (91240) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques de l'Essonne et d'Île-de-France.",
+          "nearHospitals": [
+            "Hôpital Cochin",
+            "Institut Gustave Roussy",
+            "Hôpital Bicêtre"
+          ],
+          "nearStations": [
+            "Gare Montparnasse",
+            "Gare d'Austerlitz"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly"
+          ],
+          "nearCities": [
+            "quincy-sous-senart",
+            "massy",
+            "champlan",
+            "morangis",
+            "epinay-sur-orge"
+          ]
+        },
+        {
+          "name": "Morangis",
+          "postalCode": "91420",
+          "slug": "morangis",
+          "localText": "Taxi conventionné et VSL à Morangis (91420) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques de l'Essonne et d'Île-de-France.",
+          "nearHospitals": [
+            "Hôpital Cochin",
+            "Institut Gustave Roussy",
+            "Hôpital Bicêtre",
+            "Hôpital Paul Brousse"
+          ],
+          "nearStations": [
+            "Gare Montparnasse",
+            "Gare d'Austerlitz"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly"
+          ],
+          "nearCities": [
+            "grigny",
+            "evry-courcouronnes",
+            "villemoisson-sur-orge",
+            "limours"
+          ]
+        },
+        {
+          "name": "Mennecy",
+          "postalCode": "91540",
+          "slug": "mennecy",
+          "localText": "Taxi conventionné et VSL à Mennecy (91540) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques de l'Essonne et d'Île-de-France.",
+          "nearHospitals": [
+            "Hôpital Cochin",
+            "Institut Gustave Roussy",
+            "Hôpital Bicêtre"
+          ],
+          "nearStations": [
+            "Gare Montparnasse",
+            "Gare d'Austerlitz"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly"
+          ],
+          "nearCities": [
+            "palaiseau",
+            "marcoussis",
+            "paray-vieille-poste",
+            "draveil"
+          ]
+        },
+        {
+          "name": "Quincy-sous-Sénart",
+          "postalCode": "91480",
+          "slug": "quincy-sous-senart",
+          "localText": "Taxi conventionné et VSL à Quincy-sous-Sénart (91480) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques de l'Essonne et d'Île-de-France.",
+          "nearHospitals": [
+            "Hôpital Cochin",
+            "Institut Gustave Roussy",
+            "Hôpital Bicêtre",
+            "Hôpital Paul Brousse"
+          ],
+          "nearStations": [
+            "Gare Montparnasse",
+            "Gare d'Austerlitz"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly"
+          ],
+          "nearCities": [
+            "mennecy",
+            "saint-michel-sur-orge",
+            "dourdan",
+            "linas"
+          ]
+        },
+        {
+          "name": "Crosne",
+          "postalCode": "91560",
+          "slug": "crosne",
+          "localText": "Taxi conventionné et VSL à Crosne (91560) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques de l'Essonne et d'Île-de-France.",
+          "nearHospitals": [
+            "Hôpital Cochin",
+            "Institut Gustave Roussy",
+            "Hôpital Bicêtre"
+          ],
+          "nearStations": [
+            "Gare Montparnasse",
+            "Gare d'Austerlitz"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly"
+          ],
+          "nearCities": [
+            "evry-courcouronnes",
+            "montgeron",
+            "orsay",
+            "milly-la-foret"
+          ]
+        },
+        {
+          "name": "Bondoufle",
+          "postalCode": "91070",
+          "slug": "bondoufle",
+          "localText": "Taxi conventionné et VSL à Bondoufle (91070) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques de l'Essonne et d'Île-de-France.",
+          "nearHospitals": [
+            "Hôpital Cochin",
+            "Institut Gustave Roussy",
+            "Hôpital Bicêtre"
+          ],
+          "nearStations": [
+            "Gare Montparnasse"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly"
+          ],
+          "nearCities": [
+            "savigny-sur-orge",
+            "evry-courcouronnes",
+            "palaiseau"
+          ]
+        },
+        {
+          "name": "Arpajon",
+          "postalCode": "91290",
+          "slug": "arpajon",
+          "localText": "Taxi conventionné et VSL à Arpajon (91290) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques de l'Essonne et d'Île-de-France.",
+          "nearHospitals": [
+            "Hôpital Cochin",
+            "Institut Gustave Roussy",
+            "Hôpital Bicêtre"
+          ],
+          "nearStations": [
+            "Gare Montparnasse"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly"
+          ],
+          "nearCities": [
+            "evry-courcouronnes",
+            "juvisy-sur-orge",
+            "villebon-sur-yvette",
+            "lisses",
+            "morangis"
+          ]
+        },
+        {
+          "name": "Verrières-le-Buisson",
+          "postalCode": "91370",
+          "slug": "verrieres-le-buisson",
+          "localText": "Taxi conventionné et VSL à Verrières-le-Buisson (91370) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques de l'Essonne et d'Île-de-France.",
+          "nearHospitals": [
+            "Hôpital Cochin",
+            "Institut Gustave Roussy"
+          ],
+          "nearStations": [
+            "Gare Montparnasse",
+            "Gare d'Austerlitz"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly"
+          ],
+          "nearCities": [
+            "juvisy-sur-orge",
+            "etampes",
+            "viry-chatillon",
+            "grigny"
+          ]
+        },
+        {
+          "name": "Villemoisson-sur-Orge",
+          "postalCode": "91360",
+          "slug": "villemoisson-sur-orge",
+          "localText": "Taxi conventionné et VSL à Villemoisson-sur-Orge (91360) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques de l'Essonne et d'Île-de-France.",
+          "nearHospitals": [
+            "Hôpital Cochin",
+            "Institut Gustave Roussy",
+            "Hôpital Bicêtre"
+          ],
+          "nearStations": [
+            "Gare Montparnasse"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly"
+          ],
+          "nearCities": [
+            "montgeron",
+            "milly-la-foret",
+            "draveil",
+            "evry-courcouronnes",
+            "yerres"
+          ]
+        },
+        {
+          "name": "Boussy-Saint-Antoine",
+          "postalCode": "91800",
+          "slug": "boussy-saint-antoine",
+          "localText": "Taxi conventionné et VSL à Boussy-Saint-Antoine (91800) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques de l'Essonne et d'Île-de-France.",
+          "nearHospitals": [
+            "Hôpital Cochin",
+            "Institut Gustave Roussy",
+            "Hôpital Bicêtre",
+            "Hôpital Paul Brousse"
+          ],
+          "nearStations": [
+            "Gare Montparnasse"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly"
+          ],
+          "nearCities": [
+            "bondoufle",
+            "mennecy",
+            "wissous"
+          ]
+        },
+        {
+          "name": "Wissous",
+          "postalCode": "91320",
+          "slug": "wissous",
+          "localText": "Taxi conventionné et VSL à Wissous (91320) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques de l'Essonne et d'Île-de-France.",
+          "nearHospitals": [
+            "Hôpital Cochin",
+            "Institut Gustave Roussy",
+            "Hôpital Bicêtre"
+          ],
+          "nearStations": [
+            "Gare Montparnasse",
+            "Gare d'Austerlitz"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly"
+          ],
+          "nearCities": [
+            "verrieres-le-buisson",
+            "linas",
+            "epinay-sur-orge",
+            "lisses"
+          ]
+        },
+        {
+          "name": "Ballainvilliers",
+          "postalCode": "91160",
+          "slug": "ballainvilliers",
+          "localText": "Taxi conventionné et VSL à Ballainvilliers (91160) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques de l'Essonne et d'Île-de-France.",
+          "nearHospitals": [
+            "Hôpital Cochin",
+            "Institut Gustave Roussy"
+          ],
+          "nearStations": [
+            "Gare Montparnasse",
+            "Gare d'Austerlitz"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly"
+          ],
+          "nearCities": [
+            "athis-mons",
+            "ris-orangis",
+            "paray-vieille-poste",
+            "limours",
+            "bures-sur-yvette"
+          ]
+        },
+        {
+          "name": "Marcoussis",
+          "postalCode": "91460",
+          "slug": "marcoussis",
+          "localText": "Taxi conventionné et VSL à Marcoussis (91460) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques de l'Essonne et d'Île-de-France.",
+          "nearHospitals": [
+            "Hôpital Cochin",
+            "Institut Gustave Roussy"
+          ],
+          "nearStations": [
+            "Gare Montparnasse"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly"
+          ],
+          "nearCities": [
+            "ris-orangis",
+            "mennecy",
+            "massy"
+          ]
+        },
+        {
+          "name": "Paray-Vieille-Poste",
+          "postalCode": "91550",
+          "slug": "paray-vieille-poste",
+          "localText": "Taxi conventionné et VSL à Paray-Vieille-Poste (91550) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques de l'Essonne et d'Île-de-France.",
+          "nearHospitals": [
+            "Hôpital Cochin",
+            "Institut Gustave Roussy",
+            "Hôpital Bicêtre"
+          ],
+          "nearStations": [
+            "Gare Montparnasse",
+            "Gare d'Austerlitz"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly"
+          ],
+          "nearCities": [
+            "palaiseau",
+            "bretigny-sur-orge",
+            "dourdan",
+            "villemoisson-sur-orge",
+            "sainte-genevieve-des-bois"
+          ]
+        },
+        {
+          "name": "Bures-sur-Yvette",
+          "postalCode": "91440",
+          "slug": "bures-sur-yvette",
+          "localText": "Taxi conventionné et VSL à Bures-sur-Yvette (91440) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques de l'Essonne et d'Île-de-France.",
+          "nearHospitals": [
+            "Hôpital Cochin",
+            "Institut Gustave Roussy",
+            "Hôpital Bicêtre"
+          ],
+          "nearStations": [
+            "Gare Montparnasse"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly"
+          ],
+          "nearCities": [
+            "dourdan",
+            "juvisy-sur-orge",
+            "fleury-merogis",
+            "bretigny-sur-orge"
+          ]
+        },
+        {
+          "name": "Limours",
+          "postalCode": "91470",
+          "slug": "limours",
+          "localText": "Taxi conventionné et VSL à Limours (91470) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques de l'Essonne et d'Île-de-France.",
+          "nearHospitals": [
+            "Hôpital Cochin",
+            "Institut Gustave Roussy",
+            "Hôpital Bicêtre"
+          ],
+          "nearStations": [
+            "Gare Montparnasse",
+            "Gare d'Austerlitz"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly"
+          ],
+          "nearCities": [
+            "wissous",
+            "epinay-sur-orge",
+            "grigny"
+          ]
+        },
+        {
+          "name": "Milly-la-Forêt",
+          "postalCode": "91490",
+          "slug": "milly-la-foret",
+          "localText": "Taxi conventionné et VSL à Milly-la-Forêt (91490) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques de l'Essonne et d'Île-de-France.",
+          "nearHospitals": [
+            "Hôpital Cochin",
+            "Institut Gustave Roussy",
+            "Hôpital Bicêtre"
+          ],
+          "nearStations": [
+            "Gare Montparnasse",
+            "Gare d'Austerlitz"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly"
+          ],
+          "nearCities": [
+            "wissous",
+            "mennecy",
+            "dourdan",
+            "paray-vieille-poste"
+          ]
+        },
+        {
+          "name": "Dourdan",
+          "postalCode": "91410",
+          "slug": "dourdan",
+          "localText": "Taxi conventionné et VSL à Dourdan (91410) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques de l'Essonne et d'Île-de-France.",
+          "nearHospitals": [
+            "Hôpital Cochin",
+            "Institut Gustave Roussy",
+            "Hôpital Bicêtre",
+            "Hôpital Paul Brousse"
+          ],
+          "nearStations": [
+            "Gare Montparnasse",
+            "Gare d'Austerlitz"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly"
+          ],
+          "nearCities": [
+            "saint-michel-sur-orge",
+            "linas",
+            "arpajon"
+          ]
+        },
+        {
+          "name": "Linas",
+          "postalCode": "91310",
+          "slug": "linas",
+          "localText": "Taxi conventionné et VSL à Linas (91310) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques de l'Essonne et d'Île-de-France.",
+          "nearHospitals": [
+            "Hôpital Cochin",
+            "Institut Gustave Roussy"
+          ],
+          "nearStations": [
+            "Gare Montparnasse",
+            "Gare d'Austerlitz"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly"
+          ],
+          "nearCities": [
+            "savigny-sur-orge",
+            "juvisy-sur-orge",
+            "lisses",
+            "mennecy",
+            "dourdan"
+          ]
+        },
+        {
+          "name": "Champlan",
+          "postalCode": "91160",
+          "slug": "champlan",
+          "localText": "Taxi conventionné et VSL à Champlan (91160) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques de l'Essonne et d'Île-de-France.",
+          "nearHospitals": [
+            "Hôpital Cochin",
+            "Institut Gustave Roussy",
+            "Hôpital Bicêtre"
+          ],
+          "nearStations": [
+            "Gare Montparnasse",
+            "Gare d'Austerlitz"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly"
+          ],
+          "nearCities": [
+            "milly-la-foret",
+            "paray-vieille-poste",
+            "dourdan"
+          ]
+        },
+        {
+          "name": "Lisses",
+          "postalCode": "91090",
+          "slug": "lisses",
+          "localText": "Taxi conventionné et VSL à Lisses (91090) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques de l'Essonne et d'Île-de-France.",
+          "nearHospitals": [
+            "Hôpital Cochin",
+            "Institut Gustave Roussy"
+          ],
+          "nearStations": [
+            "Gare Montparnasse",
+            "Gare d'Austerlitz"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly"
+          ],
+          "nearCities": [
+            "dourdan",
+            "verrieres-le-buisson",
+            "villemoisson-sur-orge",
+            "orsay"
+          ]
+        },
+        {
+          "name": "Soisy-sur-Seine",
+          "postalCode": "91450",
+          "slug": "soisy-sur-seine",
+          "localText": "Taxi conventionné et VSL à Soisy-sur-Seine (91450) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques de l'Essonne et d'Île-de-France.",
+          "nearHospitals": [
+            "Hôpital Cochin",
+            "Institut Gustave Roussy",
+            "Hôpital Bicêtre",
+            "Hôpital Paul Brousse"
+          ],
+          "nearStations": [
+            "Gare Montparnasse"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly"
+          ],
+          "nearCities": [
+            "brunoy",
+            "sainte-genevieve-des-bois",
+            "limours"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "92",
+      "name": "Hauts-de-Seine",
+      "slug": "taxi-conventionne-hauts-de-seine-92",
+      "metaTitle": "Taxi conventionné & VSL Hauts-de-Seine (92) | VSL et transport médical",
+      "metaDescription": "Taxi conventionné & VSL dans les Hauts-de-Seine (92). Transport médical assis vers hôpitaux et cliniques, tiers-payant selon prescription.",
+      "h1": "Taxi conventionné & VSL dans les Hauts-de-Seine (92)",
+      "content": "<p>Notre service de taxi conventionné & VSL intervient dans tout le département des Hauts-de-Seine (92). Transport médical assis vers Paris et l’Île-de-France.</p>",
+      "cities": [
+        {
+          "name": "Antony",
+          "postalCode": "92160",
+          "slug": "antony",
+          "localText": "Taxi conventionné et VSL à Antony (92160) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques des Hauts-de-Seine et de Paris.",
+          "nearHospitals": [
+            "Hôpital Georges Pompidou",
+            "Hôpital Necker",
+            "Institut Curie",
+            "Hôpital Foch"
+          ],
+          "nearStations": [
+            "Gare Saint-Lazare",
+            "Gare Montparnasse"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly"
+          ],
+          "nearCities": [
+            "saint-cloud",
+            "clichy",
+            "courbevoie",
+            "garches"
+          ]
+        },
+        {
+          "name": "Asnières-sur-Seine",
+          "postalCode": "92600",
+          "slug": "asnieres-sur-seine",
+          "localText": "Taxi conventionné et VSL à Asnières-sur-Seine (92600) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques des Hauts-de-Seine et de Paris.",
+          "nearHospitals": [
+            "Hôpital Georges Pompidou",
+            "Hôpital Necker"
+          ],
+          "nearStations": [
+            "Gare Saint-Lazare"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly"
+          ],
+          "nearCities": [
+            "chatenay-malabry",
+            "puteaux",
+            "montrouge",
+            "colombes"
+          ]
+        },
+        {
+          "name": "Bagneux",
+          "postalCode": "92220",
+          "slug": "bagneux",
+          "localText": "Taxi conventionné et VSL à Bagneux (92220) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques des Hauts-de-Seine et de Paris.",
+          "nearHospitals": [
+            "Hôpital Georges Pompidou",
+            "Hôpital Necker"
+          ],
+          "nearStations": [
+            "Gare Saint-Lazare",
+            "Gare Montparnasse"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly"
+          ],
+          "nearCities": [
+            "neuilly-sur-seine",
+            "nanterre",
+            "le-plessis-robinson",
+            "bois-colombes",
+            "bourg-la-reine"
+          ]
+        },
+        {
+          "name": "Bois-Colombes",
+          "postalCode": "92270",
+          "slug": "bois-colombes",
+          "localText": "Taxi conventionné et VSL à Bois-Colombes (92270) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques des Hauts-de-Seine et de Paris.",
+          "nearHospitals": [
+            "Hôpital Georges Pompidou",
+            "Hôpital Necker",
+            "Institut Curie"
+          ],
+          "nearStations": [
+            "Gare Saint-Lazare",
+            "Gare Montparnasse"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly"
+          ],
+          "nearCities": [
+            "antony",
+            "montrouge",
+            "bourg-la-reine",
+            "boulogne-billancourt"
+          ]
+        },
+        {
+          "name": "Boulogne-Billancourt",
+          "postalCode": "92100",
+          "slug": "boulogne-billancourt",
+          "localText": "Taxi conventionné et VSL à Boulogne-Billancourt (92100) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques des Hauts-de-Seine et de Paris.",
+          "nearHospitals": [
+            "Hôpital Georges Pompidou",
+            "Hôpital Necker",
+            "Institut Curie",
+            "Hôpital Foch"
+          ],
+          "nearStations": [
+            "Gare Saint-Lazare",
+            "Gare Montparnasse"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly"
+          ],
+          "nearCities": [
+            "levallois-perret",
+            "sevres",
+            "issy-les-moulineaux",
+            "saint-cloud"
+          ]
+        },
+        {
+          "name": "Bourg-la-Reine",
+          "postalCode": "92340",
+          "slug": "bourg-la-reine",
+          "localText": "Taxi conventionné et VSL à Bourg-la-Reine (92340) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques des Hauts-de-Seine et de Paris.",
+          "nearHospitals": [
+            "Hôpital Georges Pompidou",
+            "Hôpital Necker",
+            "Institut Curie",
+            "Hôpital Foch"
+          ],
+          "nearStations": [
+            "Gare Saint-Lazare",
+            "Gare Montparnasse"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly"
+          ],
+          "nearCities": [
+            "antony",
+            "puteaux",
+            "asnieres-sur-seine",
+            "marnes-la-coquette"
+          ]
+        },
+        {
+          "name": "Châtenay-Malabry",
+          "postalCode": "92290",
+          "slug": "chatenay-malabry",
+          "localText": "Taxi conventionné et VSL à Châtenay-Malabry (92290) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques des Hauts-de-Seine et de Paris.",
+          "nearHospitals": [
+            "Hôpital Georges Pompidou",
+            "Hôpital Necker"
+          ],
+          "nearStations": [
+            "Gare Saint-Lazare"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly"
+          ],
+          "nearCities": [
+            "bagneux",
+            "levallois-perret",
+            "nanterre",
+            "vaucresson",
+            "chaville"
+          ]
+        },
+        {
+          "name": "Châtillon",
+          "postalCode": "92320",
+          "slug": "chatillon",
+          "localText": "Taxi conventionné et VSL à Châtillon (92320) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques des Hauts-de-Seine et de Paris.",
+          "nearHospitals": [
+            "Hôpital Georges Pompidou",
+            "Hôpital Necker",
+            "Institut Curie",
+            "Hôpital Foch"
+          ],
+          "nearStations": [
+            "Gare Saint-Lazare",
+            "Gare Montparnasse"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly"
+          ],
+          "nearCities": [
+            "bois-colombes",
+            "bourg-la-reine",
+            "le-plessis-robinson",
+            "colombes"
+          ]
+        },
+        {
+          "name": "Chaville",
+          "postalCode": "92370",
+          "slug": "chaville",
+          "localText": "Taxi conventionné et VSL à Chaville (92370) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques des Hauts-de-Seine et de Paris.",
+          "nearHospitals": [
+            "Hôpital Georges Pompidou",
+            "Hôpital Necker",
+            "Institut Curie"
+          ],
+          "nearStations": [
+            "Gare Saint-Lazare",
+            "Gare Montparnasse"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly"
+          ],
+          "nearCities": [
+            "montrouge",
+            "neuilly-sur-seine",
+            "clichy",
+            "nanterre",
+            "meudon"
+          ]
+        },
+        {
+          "name": "Clamart",
+          "postalCode": "92140",
+          "slug": "clamart",
+          "localText": "Taxi conventionné et VSL à Clamart (92140) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques des Hauts-de-Seine et de Paris.",
+          "nearHospitals": [
+            "Hôpital Georges Pompidou",
+            "Hôpital Necker",
+            "Institut Curie"
+          ],
+          "nearStations": [
+            "Gare Saint-Lazare"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly"
+          ],
+          "nearCities": [
+            "garches",
+            "malakoff",
+            "colombes"
+          ]
+        },
+        {
+          "name": "Clichy",
+          "postalCode": "92110",
+          "slug": "clichy",
+          "localText": "Taxi conventionné et VSL à Clichy (92110) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques des Hauts-de-Seine et de Paris.",
+          "nearHospitals": [
+            "Hôpital Georges Pompidou",
+            "Hôpital Necker"
+          ],
+          "nearStations": [
+            "Gare Saint-Lazare",
+            "Gare Montparnasse"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly"
+          ],
+          "nearCities": [
+            "clamart",
+            "chatillon",
+            "boulogne-billancourt",
+            "puteaux"
+          ]
+        },
+        {
+          "name": "Colombes",
+          "postalCode": "92700",
+          "slug": "colombes",
+          "localText": "Taxi conventionné et VSL à Colombes (92700) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques des Hauts-de-Seine et de Paris.",
+          "nearHospitals": [
+            "Hôpital Georges Pompidou",
+            "Hôpital Necker",
+            "Institut Curie"
+          ],
+          "nearStations": [
+            "Gare Saint-Lazare",
+            "Gare Montparnasse"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly"
+          ],
+          "nearCities": [
+            "ville-d-avray",
+            "fontenay-aux-roses",
+            "antony",
+            "levallois-perret",
+            "asnieres-sur-seine"
+          ]
+        },
+        {
+          "name": "Courbevoie",
+          "postalCode": "92400",
+          "slug": "courbevoie",
+          "localText": "Taxi conventionné et VSL à Courbevoie (92400) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques des Hauts-de-Seine et de Paris.",
+          "nearHospitals": [
+            "Hôpital Georges Pompidou",
+            "Hôpital Necker",
+            "Institut Curie"
+          ],
+          "nearStations": [
+            "Gare Saint-Lazare",
+            "Gare Montparnasse"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly"
+          ],
+          "nearCities": [
+            "clichy",
+            "bagneux",
+            "vanves",
+            "antony"
+          ]
+        },
+        {
+          "name": "Fontenay-aux-Roses",
+          "postalCode": "92260",
+          "slug": "fontenay-aux-roses",
+          "localText": "Taxi conventionné et VSL à Fontenay-aux-Roses (92260) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques des Hauts-de-Seine et de Paris.",
+          "nearHospitals": [
+            "Hôpital Georges Pompidou",
+            "Hôpital Necker",
+            "Institut Curie"
+          ],
+          "nearStations": [
+            "Gare Saint-Lazare"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly"
+          ],
+          "nearCities": [
+            "rueil-malmaison",
+            "villeneuve-la-garenne",
+            "suresnes",
+            "sceaux"
+          ]
+        },
+        {
+          "name": "Garches",
+          "postalCode": "92380",
+          "slug": "garches",
+          "localText": "Taxi conventionné et VSL à Garches (92380) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques des Hauts-de-Seine et de Paris.",
+          "nearHospitals": [
+            "Hôpital Georges Pompidou",
+            "Hôpital Necker",
+            "Institut Curie"
+          ],
+          "nearStations": [
+            "Gare Saint-Lazare"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly"
+          ],
+          "nearCities": [
+            "fontenay-aux-roses",
+            "vaucresson",
+            "sceaux"
+          ]
+        },
+        {
+          "name": "La Garenne-Colombes",
+          "postalCode": "92250",
+          "slug": "la-garenne-colombes",
+          "localText": "Taxi conventionné et VSL à La Garenne-Colombes (92250) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques des Hauts-de-Seine et de Paris.",
+          "nearHospitals": [
+            "Hôpital Georges Pompidou",
+            "Hôpital Necker",
+            "Institut Curie"
+          ],
+          "nearStations": [
+            "Gare Saint-Lazare"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly"
+          ],
+          "nearCities": [
+            "chatillon",
+            "issy-les-moulineaux",
+            "clamart",
+            "chatenay-malabry"
+          ]
+        },
+        {
+          "name": "Gennevilliers",
+          "postalCode": "92230",
+          "slug": "gennevilliers",
+          "localText": "Taxi conventionné et VSL à Gennevilliers (92230) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques des Hauts-de-Seine et de Paris.",
+          "nearHospitals": [
+            "Hôpital Georges Pompidou",
+            "Hôpital Necker",
+            "Institut Curie"
+          ],
+          "nearStations": [
+            "Gare Saint-Lazare",
+            "Gare Montparnasse"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly"
+          ],
+          "nearCities": [
+            "sevres",
+            "chaville",
+            "garches",
+            "malakoff"
+          ]
+        },
+        {
+          "name": "Issy-les-Moulineaux",
+          "postalCode": "92130",
+          "slug": "issy-les-moulineaux",
+          "localText": "Taxi conventionné et VSL à Issy-les-Moulineaux (92130) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques des Hauts-de-Seine et de Paris.",
+          "nearHospitals": [
+            "Hôpital Georges Pompidou",
+            "Hôpital Necker",
+            "Institut Curie",
+            "Hôpital Foch"
+          ],
+          "nearStations": [
+            "Gare Saint-Lazare",
+            "Gare Montparnasse"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly"
+          ],
+          "nearCities": [
+            "suresnes",
+            "sevres",
+            "marnes-la-coquette"
+          ]
+        },
+        {
+          "name": "Levallois-Perret",
+          "postalCode": "92300",
+          "slug": "levallois-perret",
+          "localText": "Taxi conventionné et VSL à Levallois-Perret (92300) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques des Hauts-de-Seine et de Paris.",
+          "nearHospitals": [
+            "Hôpital Georges Pompidou",
+            "Hôpital Necker",
+            "Institut Curie",
+            "Hôpital Foch"
+          ],
+          "nearStations": [
+            "Gare Saint-Lazare"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly"
+          ],
+          "nearCities": [
+            "chaville",
+            "malakoff",
+            "chatenay-malabry",
+            "ville-d-avray",
+            "vaucresson"
+          ]
+        },
+        {
+          "name": "Malakoff",
+          "postalCode": "92240",
+          "slug": "malakoff",
+          "localText": "Taxi conventionné et VSL à Malakoff (92240) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques des Hauts-de-Seine et de Paris.",
+          "nearHospitals": [
+            "Hôpital Georges Pompidou",
+            "Hôpital Necker"
+          ],
+          "nearStations": [
+            "Gare Saint-Lazare",
+            "Gare Montparnasse"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly"
+          ],
+          "nearCities": [
+            "colombes",
+            "sceaux",
+            "puteaux",
+            "clichy"
+          ]
+        },
+        {
+          "name": "Marnes-la-Coquette",
+          "postalCode": "92430",
+          "slug": "marnes-la-coquette",
+          "localText": "Taxi conventionné et VSL à Marnes-la-Coquette (92430) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques des Hauts-de-Seine et de Paris.",
+          "nearHospitals": [
+            "Hôpital Georges Pompidou",
+            "Hôpital Necker"
+          ],
+          "nearStations": [
+            "Gare Saint-Lazare",
+            "Gare Montparnasse"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly"
+          ],
+          "nearCities": [
+            "vanves",
+            "clichy",
+            "clamart",
+            "chaville"
+          ]
+        },
+        {
+          "name": "Meudon",
+          "postalCode": "92190",
+          "slug": "meudon",
+          "localText": "Taxi conventionné et VSL à Meudon (92190) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques des Hauts-de-Seine et de Paris.",
+          "nearHospitals": [
+            "Hôpital Georges Pompidou",
+            "Hôpital Necker",
+            "Institut Curie"
+          ],
+          "nearStations": [
+            "Gare Saint-Lazare"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly"
+          ],
+          "nearCities": [
+            "antony",
+            "asnieres-sur-seine",
+            "bagneux",
+            "malakoff"
+          ]
+        },
+        {
+          "name": "Montrouge",
+          "postalCode": "92120",
+          "slug": "montrouge",
+          "localText": "Taxi conventionné et VSL à Montrouge (92120) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques des Hauts-de-Seine et de Paris.",
+          "nearHospitals": [
+            "Hôpital Georges Pompidou",
+            "Hôpital Necker"
+          ],
+          "nearStations": [
+            "Gare Saint-Lazare",
+            "Gare Montparnasse"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly"
+          ],
+          "nearCities": [
+            "ville-d-avray",
+            "suresnes",
+            "antony",
+            "bourg-la-reine"
+          ]
+        },
+        {
+          "name": "Nanterre",
+          "postalCode": "92000",
+          "slug": "nanterre",
+          "localText": "Taxi conventionné et VSL à Nanterre (92000) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques des Hauts-de-Seine et de Paris.",
+          "nearHospitals": [
+            "Hôpital Georges Pompidou",
+            "Hôpital Necker"
+          ],
+          "nearStations": [
+            "Gare Saint-Lazare",
+            "Gare Montparnasse"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly"
+          ],
+          "nearCities": [
+            "bagneux",
+            "gennevilliers",
+            "vanves",
+            "levallois-perret"
+          ]
+        },
+        {
+          "name": "Neuilly-sur-Seine",
+          "postalCode": "92200",
+          "slug": "neuilly-sur-seine",
+          "localText": "Taxi conventionné et VSL à Neuilly-sur-Seine (92200) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques des Hauts-de-Seine et de Paris.",
+          "nearHospitals": [
+            "Hôpital Georges Pompidou",
+            "Hôpital Necker",
+            "Institut Curie"
+          ],
+          "nearStations": [
+            "Gare Saint-Lazare"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly"
+          ],
+          "nearCities": [
+            "nanterre",
+            "saint-cloud",
+            "bagneux",
+            "asnieres-sur-seine"
+          ]
+        },
+        {
+          "name": "Le Plessis-Robinson",
+          "postalCode": "92350",
+          "slug": "le-plessis-robinson",
+          "localText": "Taxi conventionné et VSL à Le Plessis-Robinson (92350) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques des Hauts-de-Seine et de Paris.",
+          "nearHospitals": [
+            "Hôpital Georges Pompidou",
+            "Hôpital Necker",
+            "Institut Curie",
+            "Hôpital Foch"
+          ],
+          "nearStations": [
+            "Gare Saint-Lazare",
+            "Gare Montparnasse"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly"
+          ],
+          "nearCities": [
+            "puteaux",
+            "fontenay-aux-roses",
+            "clamart"
+          ]
+        },
+        {
+          "name": "Puteaux",
+          "postalCode": "92800",
+          "slug": "puteaux",
+          "localText": "Taxi conventionné et VSL à Puteaux (92800) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques des Hauts-de-Seine et de Paris.",
+          "nearHospitals": [
+            "Hôpital Georges Pompidou",
+            "Hôpital Necker"
+          ],
+          "nearStations": [
+            "Gare Saint-Lazare",
+            "Gare Montparnasse"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly"
+          ],
+          "nearCities": [
+            "neuilly-sur-seine",
+            "bourg-la-reine",
+            "levallois-perret"
+          ]
+        },
+        {
+          "name": "Rueil-Malmaison",
+          "postalCode": "92500",
+          "slug": "rueil-malmaison",
+          "localText": "Taxi conventionné et VSL à Rueil-Malmaison (92500) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques des Hauts-de-Seine et de Paris.",
+          "nearHospitals": [
+            "Hôpital Georges Pompidou",
+            "Hôpital Necker"
+          ],
+          "nearStations": [
+            "Gare Saint-Lazare",
+            "Gare Montparnasse"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly"
+          ],
+          "nearCities": [
+            "bois-colombes",
+            "clichy",
+            "neuilly-sur-seine",
+            "sevres",
+            "asnieres-sur-seine"
+          ]
+        },
+        {
+          "name": "Saint-Cloud",
+          "postalCode": "92210",
+          "slug": "saint-cloud",
+          "localText": "Taxi conventionné et VSL à Saint-Cloud (92210) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques des Hauts-de-Seine et de Paris.",
+          "nearHospitals": [
+            "Hôpital Georges Pompidou",
+            "Hôpital Necker",
+            "Institut Curie"
+          ],
+          "nearStations": [
+            "Gare Saint-Lazare",
+            "Gare Montparnasse"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly"
+          ],
+          "nearCities": [
+            "garches",
+            "bois-colombes",
+            "marnes-la-coquette"
+          ]
+        },
+        {
+          "name": "Sceaux",
+          "postalCode": "92330",
+          "slug": "sceaux",
+          "localText": "Taxi conventionné et VSL à Sceaux (92330) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques des Hauts-de-Seine et de Paris.",
+          "nearHospitals": [
+            "Hôpital Georges Pompidou",
+            "Hôpital Necker",
+            "Institut Curie"
+          ],
+          "nearStations": [
+            "Gare Saint-Lazare",
+            "Gare Montparnasse"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly"
+          ],
+          "nearCities": [
+            "gennevilliers",
+            "meudon",
+            "chatillon"
+          ]
+        },
+        {
+          "name": "Sèvres",
+          "postalCode": "92310",
+          "slug": "sevres",
+          "localText": "Taxi conventionné et VSL à Sèvres (92310) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques des Hauts-de-Seine et de Paris.",
+          "nearHospitals": [
+            "Hôpital Georges Pompidou",
+            "Hôpital Necker",
+            "Institut Curie"
+          ],
+          "nearStations": [
+            "Gare Saint-Lazare"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly"
+          ],
+          "nearCities": [
+            "puteaux",
+            "villeneuve-la-garenne",
+            "antony"
+          ]
+        },
+        {
+          "name": "Suresnes",
+          "postalCode": "92150",
+          "slug": "suresnes",
+          "localText": "Taxi conventionné et VSL à Suresnes (92150) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques des Hauts-de-Seine et de Paris.",
+          "nearHospitals": [
+            "Hôpital Georges Pompidou",
+            "Hôpital Necker"
+          ],
+          "nearStations": [
+            "Gare Saint-Lazare",
+            "Gare Montparnasse"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly"
+          ],
+          "nearCities": [
+            "ville-d-avray",
+            "garches",
+            "meudon"
+          ]
+        },
+        {
+          "name": "Vanves",
+          "postalCode": "92170",
+          "slug": "vanves",
+          "localText": "Taxi conventionné et VSL à Vanves (92170) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques des Hauts-de-Seine et de Paris.",
+          "nearHospitals": [
+            "Hôpital Georges Pompidou",
+            "Hôpital Necker",
+            "Institut Curie",
+            "Hôpital Foch"
+          ],
+          "nearStations": [
+            "Gare Saint-Lazare"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly"
+          ],
+          "nearCities": [
+            "boulogne-billancourt",
+            "garches",
+            "rueil-malmaison",
+            "chatillon"
+          ]
+        },
+        {
+          "name": "Vaucresson",
+          "postalCode": "92420",
+          "slug": "vaucresson",
+          "localText": "Taxi conventionné et VSL à Vaucresson (92420) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques des Hauts-de-Seine et de Paris.",
+          "nearHospitals": [
+            "Hôpital Georges Pompidou",
+            "Hôpital Necker",
+            "Institut Curie",
+            "Hôpital Foch"
+          ],
+          "nearStations": [
+            "Gare Saint-Lazare",
+            "Gare Montparnasse"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly"
+          ],
+          "nearCities": [
+            "garches",
+            "antony",
+            "marnes-la-coquette",
+            "colombes"
+          ]
+        },
+        {
+          "name": "Ville-d'Avray",
+          "postalCode": "92410",
+          "slug": "ville-d-avray",
+          "localText": "Taxi conventionné et VSL à Ville-d'Avray (92410) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques des Hauts-de-Seine et de Paris.",
+          "nearHospitals": [
+            "Hôpital Georges Pompidou",
+            "Hôpital Necker",
+            "Institut Curie",
+            "Hôpital Foch"
+          ],
+          "nearStations": [
+            "Gare Saint-Lazare",
+            "Gare Montparnasse"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly"
+          ],
+          "nearCities": [
+            "chatenay-malabry",
+            "garches",
+            "suresnes",
+            "levallois-perret"
+          ]
+        },
+        {
+          "name": "Villeneuve-la-Garenne",
+          "postalCode": "92390",
+          "slug": "villeneuve-la-garenne",
+          "localText": "Taxi conventionné et VSL à Villeneuve-la-Garenne (92390) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques des Hauts-de-Seine et de Paris.",
+          "nearHospitals": [
+            "Hôpital Georges Pompidou",
+            "Hôpital Necker",
+            "Institut Curie",
+            "Hôpital Foch"
+          ],
+          "nearStations": [
+            "Gare Saint-Lazare"
+          ],
+          "nearAirports": [
+            "Aéroport d'Orly"
+          ],
+          "nearCities": [
+            "courbevoie",
+            "antony",
+            "chaville",
+            "marnes-la-coquette",
+            "asnieres-sur-seine"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "93",
+      "name": "Seine-Saint-Denis",
+      "slug": "taxi-conventionne-seine-saint-denis-93",
+      "metaTitle": "Taxi conventionné & VSL Seine-Saint-Denis (93) | VSL et transport médical",
+      "metaDescription": "Taxi conventionné & VSL en Seine-Saint-Denis (93). Transport médical assis vers hôpitaux et cliniques, tiers-payant selon prescription.",
+      "h1": "Taxi conventionné & VSL en Seine-Saint-Denis (93)",
+      "content": "<p>Notre service de taxi conventionné & VSL dessert l’ensemble de la Seine-Saint-Denis (93). Nous assurons vos transports médicaux en position assise vers les hôpitaux de Paris et d’Île-de-France.</p>",
+      "cities": [
+        {
+          "name": "Aubervilliers",
+          "postalCode": "93300",
+          "slug": "aubervilliers",
+          "localText": "Taxi conventionné et VSL à Aubervilliers (93300) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques de Seine-Saint-Denis et de Paris.",
+          "nearHospitals": [
+            "Hôpital Bichat",
+            "Hôpital Lariboisière"
+          ],
+          "nearStations": [
+            "Gare du Nord"
+          ],
+          "nearAirports": [
+            "Aéroport Charles de Gaulle",
+            "Aéroport du Bourget"
+          ],
+          "nearCities": [
+            "le-bourget",
+            "bobigny",
+            "les-pavillons-sous-bois",
+            "tremblay-en-france"
+          ]
+        },
+        {
+          "name": "Aulnay-sous-Bois",
+          "postalCode": "93600",
+          "slug": "aulnay-sous-bois",
+          "localText": "Taxi conventionné et VSL à Aulnay-sous-Bois (93600) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques de Seine-Saint-Denis et de Paris.",
+          "nearHospitals": [
+            "Hôpital Bichat",
+            "Hôpital Lariboisière",
+            "Hôpital Saint-Louis"
+          ],
+          "nearStations": [
+            "Gare du Nord"
+          ],
+          "nearAirports": [
+            "Aéroport Charles de Gaulle",
+            "Aéroport du Bourget"
+          ],
+          "nearCities": [
+            "bobigny",
+            "le-blanc-mesnil",
+            "bagnolet",
+            "montreuil",
+            "les-lilas"
+          ]
+        },
+        {
+          "name": "Bagnolet",
+          "postalCode": "93170",
+          "slug": "bagnolet",
+          "localText": "Taxi conventionné et VSL à Bagnolet (93170) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques de Seine-Saint-Denis et de Paris.",
+          "nearHospitals": [
+            "Hôpital Bichat",
+            "Hôpital Lariboisière",
+            "Hôpital Saint-Louis"
+          ],
+          "nearStations": [
+            "Gare du Nord"
+          ],
+          "nearAirports": [
+            "Aéroport Charles de Gaulle",
+            "Aéroport du Bourget"
+          ],
+          "nearCities": [
+            "aubervilliers",
+            "les-lilas",
+            "romainville",
+            "bondy",
+            "villepinte"
+          ]
+        },
+        {
+          "name": "Le Blanc-Mesnil",
+          "postalCode": "93150",
+          "slug": "le-blanc-mesnil",
+          "localText": "Taxi conventionné et VSL à Le Blanc-Mesnil (93150) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques de Seine-Saint-Denis et de Paris.",
+          "nearHospitals": [
+            "Hôpital Bichat",
+            "Hôpital Lariboisière",
+            "Hôpital Saint-Louis"
+          ],
+          "nearStations": [
+            "Gare du Nord",
+            "Gare de l'Est"
+          ],
+          "nearAirports": [
+            "Aéroport Charles de Gaulle",
+            "Aéroport du Bourget"
+          ],
+          "nearCities": [
+            "saint-denis",
+            "coubron",
+            "saint-ouen-sur-seine",
+            "la-courneuve"
+          ]
+        },
+        {
+          "name": "Bobigny",
+          "postalCode": "93000",
+          "slug": "bobigny",
+          "localText": "Taxi conventionné et VSL à Bobigny (93000) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques de Seine-Saint-Denis et de Paris.",
+          "nearHospitals": [
+            "Hôpital Bichat",
+            "Hôpital Lariboisière",
+            "Hôpital Saint-Louis"
+          ],
+          "nearStations": [
+            "Gare du Nord",
+            "Gare de l'Est"
+          ],
+          "nearAirports": [
+            "Aéroport Charles de Gaulle",
+            "Aéroport du Bourget"
+          ],
+          "nearCities": [
+            "la-courneuve",
+            "drancy",
+            "pantin",
+            "neuilly-plaisance"
+          ]
+        },
+        {
+          "name": "Bondy",
+          "postalCode": "93140",
+          "slug": "bondy",
+          "localText": "Taxi conventionné et VSL à Bondy (93140) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques de Seine-Saint-Denis et de Paris.",
+          "nearHospitals": [
+            "Hôpital Bichat",
+            "Hôpital Lariboisière"
+          ],
+          "nearStations": [
+            "Gare du Nord",
+            "Gare de l'Est"
+          ],
+          "nearAirports": [
+            "Aéroport Charles de Gaulle",
+            "Aéroport du Bourget"
+          ],
+          "nearCities": [
+            "le-raincy",
+            "gournay-sur-marne",
+            "sevran"
+          ]
+        },
+        {
+          "name": "Le Bourget",
+          "postalCode": "93350",
+          "slug": "le-bourget",
+          "localText": "Taxi conventionné et VSL à Le Bourget (93350) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques de Seine-Saint-Denis et de Paris.",
+          "nearHospitals": [
+            "Hôpital Bichat",
+            "Hôpital Lariboisière"
+          ],
+          "nearStations": [
+            "Gare du Nord",
+            "Gare de l'Est"
+          ],
+          "nearAirports": [
+            "Aéroport Charles de Gaulle",
+            "Aéroport du Bourget"
+          ],
+          "nearCities": [
+            "dugny",
+            "villemomble",
+            "saint-denis"
+          ]
+        },
+        {
+          "name": "Clichy-sous-Bois",
+          "postalCode": "93390",
+          "slug": "clichy-sous-bois",
+          "localText": "Taxi conventionné et VSL à Clichy-sous-Bois (93390) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques de Seine-Saint-Denis et de Paris.",
+          "nearHospitals": [
+            "Hôpital Bichat",
+            "Hôpital Lariboisière"
+          ],
+          "nearStations": [
+            "Gare du Nord",
+            "Gare de l'Est"
+          ],
+          "nearAirports": [
+            "Aéroport Charles de Gaulle",
+            "Aéroport du Bourget"
+          ],
+          "nearCities": [
+            "aulnay-sous-bois",
+            "montreuil",
+            "drancy",
+            "la-courneuve",
+            "villepinte"
+          ]
+        },
+        {
+          "name": "Coubron",
+          "postalCode": "93470",
+          "slug": "coubron",
+          "localText": "Taxi conventionné et VSL à Coubron (93470) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques de Seine-Saint-Denis et de Paris.",
+          "nearHospitals": [
+            "Hôpital Bichat",
+            "Hôpital Lariboisière",
+            "Hôpital Saint-Louis"
+          ],
+          "nearStations": [
+            "Gare du Nord",
+            "Gare de l'Est"
+          ],
+          "nearAirports": [
+            "Aéroport Charles de Gaulle",
+            "Aéroport du Bourget"
+          ],
+          "nearCities": [
+            "gournay-sur-marne",
+            "neuilly-sur-marne",
+            "pantin",
+            "saint-ouen-sur-seine",
+            "montreuil"
+          ]
+        },
+        {
+          "name": "La Courneuve",
+          "postalCode": "93120",
+          "slug": "la-courneuve",
+          "localText": "Taxi conventionné et VSL à La Courneuve (93120) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques de Seine-Saint-Denis et de Paris.",
+          "nearHospitals": [
+            "Hôpital Bichat",
+            "Hôpital Lariboisière",
+            "Hôpital Saint-Louis"
+          ],
+          "nearStations": [
+            "Gare du Nord",
+            "Gare de l'Est"
+          ],
+          "nearAirports": [
+            "Aéroport Charles de Gaulle",
+            "Aéroport du Bourget"
+          ],
+          "nearCities": [
+            "epinay-sur-seine",
+            "saint-denis",
+            "aubervilliers"
+          ]
+        },
+        {
+          "name": "Drancy",
+          "postalCode": "93700",
+          "slug": "drancy",
+          "localText": "Taxi conventionné et VSL à Drancy (93700) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques de Seine-Saint-Denis et de Paris.",
+          "nearHospitals": [
+            "Hôpital Bichat",
+            "Hôpital Lariboisière",
+            "Hôpital Saint-Louis",
+            "Hôpital Robert Debré"
+          ],
+          "nearStations": [
+            "Gare du Nord",
+            "Gare de l'Est"
+          ],
+          "nearAirports": [
+            "Aéroport Charles de Gaulle",
+            "Aéroport du Bourget"
+          ],
+          "nearCities": [
+            "les-pavillons-sous-bois",
+            "montfermeil",
+            "sevran",
+            "villepinte"
+          ]
+        },
+        {
+          "name": "Dugny",
+          "postalCode": "93440",
+          "slug": "dugny",
+          "localText": "Taxi conventionné et VSL à Dugny (93440) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques de Seine-Saint-Denis et de Paris.",
+          "nearHospitals": [
+            "Hôpital Bichat",
+            "Hôpital Lariboisière"
+          ],
+          "nearStations": [
+            "Gare du Nord",
+            "Gare de l'Est"
+          ],
+          "nearAirports": [
+            "Aéroport Charles de Gaulle",
+            "Aéroport du Bourget"
+          ],
+          "nearCities": [
+            "villemomble",
+            "aubervilliers",
+            "epinay-sur-seine",
+            "villetaneuse",
+            "tremblay-en-france"
+          ]
+        },
+        {
+          "name": "Épinay-sur-Seine",
+          "postalCode": "93800",
+          "slug": "epinay-sur-seine",
+          "localText": "Taxi conventionné et VSL à Épinay-sur-Seine (93800) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques de Seine-Saint-Denis et de Paris.",
+          "nearHospitals": [
+            "Hôpital Bichat",
+            "Hôpital Lariboisière",
+            "Hôpital Saint-Louis",
+            "Hôpital Robert Debré"
+          ],
+          "nearStations": [
+            "Gare du Nord",
+            "Gare de l'Est"
+          ],
+          "nearAirports": [
+            "Aéroport Charles de Gaulle",
+            "Aéroport du Bourget"
+          ],
+          "nearCities": [
+            "clichy-sous-bois",
+            "drancy",
+            "montreuil",
+            "l-ile-saint-denis"
+          ]
+        },
+        {
+          "name": "Gagny",
+          "postalCode": "93220",
+          "slug": "gagny",
+          "localText": "Taxi conventionné et VSL à Gagny (93220) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques de Seine-Saint-Denis et de Paris.",
+          "nearHospitals": [
+            "Hôpital Bichat",
+            "Hôpital Lariboisière",
+            "Hôpital Saint-Louis"
+          ],
+          "nearStations": [
+            "Gare du Nord",
+            "Gare de l'Est"
+          ],
+          "nearAirports": [
+            "Aéroport Charles de Gaulle",
+            "Aéroport du Bourget"
+          ],
+          "nearCities": [
+            "stains",
+            "le-blanc-mesnil",
+            "la-courneuve",
+            "le-bourget",
+            "romainville"
+          ]
+        },
+        {
+          "name": "Gournay-sur-Marne",
+          "postalCode": "93460",
+          "slug": "gournay-sur-marne",
+          "localText": "Taxi conventionné et VSL à Gournay-sur-Marne (93460) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques de Seine-Saint-Denis et de Paris.",
+          "nearHospitals": [
+            "Hôpital Bichat",
+            "Hôpital Lariboisière",
+            "Hôpital Saint-Louis",
+            "Hôpital Robert Debré"
+          ],
+          "nearStations": [
+            "Gare du Nord",
+            "Gare de l'Est"
+          ],
+          "nearAirports": [
+            "Aéroport Charles de Gaulle",
+            "Aéroport du Bourget"
+          ],
+          "nearCities": [
+            "rosny-sous-bois",
+            "saint-ouen-sur-seine",
+            "les-lilas",
+            "romainville"
+          ]
+        },
+        {
+          "name": "L'Île-Saint-Denis",
+          "postalCode": "93450",
+          "slug": "l-ile-saint-denis",
+          "localText": "Taxi conventionné et VSL à L'Île-Saint-Denis (93450) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques de Seine-Saint-Denis et de Paris.",
+          "nearHospitals": [
+            "Hôpital Bichat",
+            "Hôpital Lariboisière",
+            "Hôpital Saint-Louis"
+          ],
+          "nearStations": [
+            "Gare du Nord"
+          ],
+          "nearAirports": [
+            "Aéroport Charles de Gaulle",
+            "Aéroport du Bourget"
+          ],
+          "nearCities": [
+            "les-lilas",
+            "le-raincy",
+            "le-blanc-mesnil",
+            "bagnolet",
+            "drancy"
+          ]
+        },
+        {
+          "name": "Les Lilas",
+          "postalCode": "93260",
+          "slug": "les-lilas",
+          "localText": "Taxi conventionné et VSL à Les Lilas (93260) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques de Seine-Saint-Denis et de Paris.",
+          "nearHospitals": [
+            "Hôpital Bichat",
+            "Hôpital Lariboisière"
+          ],
+          "nearStations": [
+            "Gare du Nord",
+            "Gare de l'Est"
+          ],
+          "nearAirports": [
+            "Aéroport Charles de Gaulle",
+            "Aéroport du Bourget"
+          ],
+          "nearCities": [
+            "bondy",
+            "stains",
+            "noisy-le-sec",
+            "bobigny"
+          ]
+        },
+        {
+          "name": "Livry-Gargan",
+          "postalCode": "93190",
+          "slug": "livry-gargan",
+          "localText": "Taxi conventionné et VSL à Livry-Gargan (93190) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques de Seine-Saint-Denis et de Paris.",
+          "nearHospitals": [
+            "Hôpital Bichat",
+            "Hôpital Lariboisière",
+            "Hôpital Saint-Louis"
+          ],
+          "nearStations": [
+            "Gare du Nord"
+          ],
+          "nearAirports": [
+            "Aéroport Charles de Gaulle",
+            "Aéroport du Bourget"
+          ],
+          "nearCities": [
+            "pantin",
+            "rosny-sous-bois",
+            "coubron",
+            "epinay-sur-seine",
+            "gournay-sur-marne"
+          ]
+        },
+        {
+          "name": "Montfermeil",
+          "postalCode": "93370",
+          "slug": "montfermeil",
+          "localText": "Taxi conventionné et VSL à Montfermeil (93370) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques de Seine-Saint-Denis et de Paris.",
+          "nearHospitals": [
+            "Hôpital Bichat",
+            "Hôpital Lariboisière"
+          ],
+          "nearStations": [
+            "Gare du Nord"
+          ],
+          "nearAirports": [
+            "Aéroport Charles de Gaulle",
+            "Aéroport du Bourget"
+          ],
+          "nearCities": [
+            "tremblay-en-france",
+            "villepinte",
+            "vaujours",
+            "le-pre-saint-gervais",
+            "romainville"
+          ]
+        },
+        {
+          "name": "Montreuil",
+          "postalCode": "93100",
+          "slug": "montreuil",
+          "localText": "Taxi conventionné et VSL à Montreuil (93100) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques de Seine-Saint-Denis et de Paris.",
+          "nearHospitals": [
+            "Hôpital Bichat",
+            "Hôpital Lariboisière",
+            "Hôpital Saint-Louis",
+            "Hôpital Robert Debré"
+          ],
+          "nearStations": [
+            "Gare du Nord",
+            "Gare de l'Est"
+          ],
+          "nearAirports": [
+            "Aéroport Charles de Gaulle",
+            "Aéroport du Bourget"
+          ],
+          "nearCities": [
+            "gagny",
+            "villetaneuse",
+            "les-lilas"
+          ]
+        },
+        {
+          "name": "Neuilly-Plaisance",
+          "postalCode": "93360",
+          "slug": "neuilly-plaisance",
+          "localText": "Taxi conventionné et VSL à Neuilly-Plaisance (93360) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques de Seine-Saint-Denis et de Paris.",
+          "nearHospitals": [
+            "Hôpital Bichat",
+            "Hôpital Lariboisière",
+            "Hôpital Saint-Louis"
+          ],
+          "nearStations": [
+            "Gare du Nord"
+          ],
+          "nearAirports": [
+            "Aéroport Charles de Gaulle",
+            "Aéroport du Bourget"
+          ],
+          "nearCities": [
+            "montfermeil",
+            "gagny",
+            "bobigny"
+          ]
+        },
+        {
+          "name": "Neuilly-sur-Marne",
+          "postalCode": "93330",
+          "slug": "neuilly-sur-marne",
+          "localText": "Taxi conventionné et VSL à Neuilly-sur-Marne (93330) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques de Seine-Saint-Denis et de Paris.",
+          "nearHospitals": [
+            "Hôpital Bichat",
+            "Hôpital Lariboisière",
+            "Hôpital Saint-Louis"
+          ],
+          "nearStations": [
+            "Gare du Nord",
+            "Gare de l'Est"
+          ],
+          "nearAirports": [
+            "Aéroport Charles de Gaulle",
+            "Aéroport du Bourget"
+          ],
+          "nearCities": [
+            "bobigny",
+            "bagnolet",
+            "villetaneuse"
+          ]
+        },
+        {
+          "name": "Noisy-le-Grand",
+          "postalCode": "93160",
+          "slug": "noisy-le-grand",
+          "localText": "Taxi conventionné et VSL à Noisy-le-Grand (93160) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques de Seine-Saint-Denis et de Paris.",
+          "nearHospitals": [
+            "Hôpital Bichat",
+            "Hôpital Lariboisière",
+            "Hôpital Saint-Louis"
+          ],
+          "nearStations": [
+            "Gare du Nord",
+            "Gare de l'Est"
+          ],
+          "nearAirports": [
+            "Aéroport Charles de Gaulle",
+            "Aéroport du Bourget"
+          ],
+          "nearCities": [
+            "l-ile-saint-denis",
+            "les-pavillons-sous-bois",
+            "vaujours",
+            "gagny",
+            "montfermeil"
+          ]
+        },
+        {
+          "name": "Noisy-le-Sec",
+          "postalCode": "93130",
+          "slug": "noisy-le-sec",
+          "localText": "Taxi conventionné et VSL à Noisy-le-Sec (93130) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques de Seine-Saint-Denis et de Paris.",
+          "nearHospitals": [
+            "Hôpital Bichat",
+            "Hôpital Lariboisière"
+          ],
+          "nearStations": [
+            "Gare du Nord",
+            "Gare de l'Est"
+          ],
+          "nearAirports": [
+            "Aéroport Charles de Gaulle",
+            "Aéroport du Bourget"
+          ],
+          "nearCities": [
+            "le-pre-saint-gervais",
+            "les-lilas",
+            "le-bourget",
+            "aubervilliers",
+            "gagny"
+          ]
+        },
+        {
+          "name": "Pantin",
+          "postalCode": "93500",
+          "slug": "pantin",
+          "localText": "Taxi conventionné et VSL à Pantin (93500) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques de Seine-Saint-Denis et de Paris.",
+          "nearHospitals": [
+            "Hôpital Bichat",
+            "Hôpital Lariboisière"
+          ],
+          "nearStations": [
+            "Gare du Nord",
+            "Gare de l'Est"
+          ],
+          "nearAirports": [
+            "Aéroport Charles de Gaulle",
+            "Aéroport du Bourget"
+          ],
+          "nearCities": [
+            "saint-denis",
+            "l-ile-saint-denis",
+            "aubervilliers",
+            "montfermeil",
+            "tremblay-en-france"
+          ]
+        },
+        {
+          "name": "Les Pavillons-sous-Bois",
+          "postalCode": "93320",
+          "slug": "les-pavillons-sous-bois",
+          "localText": "Taxi conventionné et VSL à Les Pavillons-sous-Bois (93320) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques de Seine-Saint-Denis et de Paris.",
+          "nearHospitals": [
+            "Hôpital Bichat",
+            "Hôpital Lariboisière",
+            "Hôpital Saint-Louis",
+            "Hôpital Robert Debré"
+          ],
+          "nearStations": [
+            "Gare du Nord"
+          ],
+          "nearAirports": [
+            "Aéroport Charles de Gaulle",
+            "Aéroport du Bourget"
+          ],
+          "nearCities": [
+            "gagny",
+            "bagnolet",
+            "neuilly-sur-marne",
+            "le-blanc-mesnil",
+            "vaujours"
+          ]
+        },
+        {
+          "name": "Pierrefitte-sur-Seine",
+          "postalCode": "93380",
+          "slug": "pierrefitte-sur-seine",
+          "localText": "Taxi conventionné et VSL à Pierrefitte-sur-Seine (93380) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques de Seine-Saint-Denis et de Paris.",
+          "nearHospitals": [
+            "Hôpital Bichat",
+            "Hôpital Lariboisière"
+          ],
+          "nearStations": [
+            "Gare du Nord",
+            "Gare de l'Est"
+          ],
+          "nearAirports": [
+            "Aéroport Charles de Gaulle",
+            "Aéroport du Bourget"
+          ],
+          "nearCities": [
+            "clichy-sous-bois",
+            "villetaneuse",
+            "montreuil"
+          ]
+        },
+        {
+          "name": "Le Pré-Saint-Gervais",
+          "postalCode": "93310",
+          "slug": "le-pre-saint-gervais",
+          "localText": "Taxi conventionné et VSL à Le Pré-Saint-Gervais (93310) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques de Seine-Saint-Denis et de Paris.",
+          "nearHospitals": [
+            "Hôpital Bichat",
+            "Hôpital Lariboisière",
+            "Hôpital Saint-Louis",
+            "Hôpital Robert Debré"
+          ],
+          "nearStations": [
+            "Gare du Nord",
+            "Gare de l'Est"
+          ],
+          "nearAirports": [
+            "Aéroport Charles de Gaulle",
+            "Aéroport du Bourget"
+          ],
+          "nearCities": [
+            "livry-gargan",
+            "epinay-sur-seine",
+            "drancy"
+          ]
+        },
+        {
+          "name": "Le Raincy",
+          "postalCode": "93340",
+          "slug": "le-raincy",
+          "localText": "Taxi conventionné et VSL à Le Raincy (93340) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques de Seine-Saint-Denis et de Paris.",
+          "nearHospitals": [
+            "Hôpital Bichat",
+            "Hôpital Lariboisière",
+            "Hôpital Saint-Louis"
+          ],
+          "nearStations": [
+            "Gare du Nord",
+            "Gare de l'Est"
+          ],
+          "nearAirports": [
+            "Aéroport Charles de Gaulle",
+            "Aéroport du Bourget"
+          ],
+          "nearCities": [
+            "la-courneuve",
+            "gagny",
+            "saint-denis",
+            "vaujours",
+            "gournay-sur-marne"
+          ]
+        },
+        {
+          "name": "Romainville",
+          "postalCode": "93230",
+          "slug": "romainville",
+          "localText": "Taxi conventionné et VSL à Romainville (93230) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques de Seine-Saint-Denis et de Paris.",
+          "nearHospitals": [
+            "Hôpital Bichat",
+            "Hôpital Lariboisière"
+          ],
+          "nearStations": [
+            "Gare du Nord"
+          ],
+          "nearAirports": [
+            "Aéroport Charles de Gaulle",
+            "Aéroport du Bourget"
+          ],
+          "nearCities": [
+            "sevran",
+            "le-raincy",
+            "montreuil",
+            "montfermeil"
+          ]
+        },
+        {
+          "name": "Rosny-sous-Bois",
+          "postalCode": "93110",
+          "slug": "rosny-sous-bois",
+          "localText": "Taxi conventionné et VSL à Rosny-sous-Bois (93110) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques de Seine-Saint-Denis et de Paris.",
+          "nearHospitals": [
+            "Hôpital Bichat",
+            "Hôpital Lariboisière",
+            "Hôpital Saint-Louis"
+          ],
+          "nearStations": [
+            "Gare du Nord",
+            "Gare de l'Est"
+          ],
+          "nearAirports": [
+            "Aéroport Charles de Gaulle",
+            "Aéroport du Bourget"
+          ],
+          "nearCities": [
+            "pantin",
+            "tremblay-en-france",
+            "l-ile-saint-denis",
+            "aubervilliers",
+            "la-courneuve"
+          ]
+        },
+        {
+          "name": "Saint-Denis",
+          "postalCode": "93200",
+          "slug": "saint-denis",
+          "localText": "Taxi conventionné et VSL à Saint-Denis (93200) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques de Seine-Saint-Denis et de Paris.",
+          "nearHospitals": [
+            "Hôpital Bichat",
+            "Hôpital Lariboisière"
+          ],
+          "nearStations": [
+            "Gare du Nord",
+            "Gare de l'Est"
+          ],
+          "nearAirports": [
+            "Aéroport Charles de Gaulle",
+            "Aéroport du Bourget"
+          ],
+          "nearCities": [
+            "neuilly-sur-marne",
+            "le-blanc-mesnil",
+            "gagny",
+            "stains"
+          ]
+        },
+        {
+          "name": "Saint-Ouen-sur-Seine",
+          "postalCode": "93400",
+          "slug": "saint-ouen-sur-seine",
+          "localText": "Taxi conventionné et VSL à Saint-Ouen-sur-Seine (93400) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques de Seine-Saint-Denis et de Paris.",
+          "nearHospitals": [
+            "Hôpital Bichat",
+            "Hôpital Lariboisière",
+            "Hôpital Saint-Louis"
+          ],
+          "nearStations": [
+            "Gare du Nord",
+            "Gare de l'Est"
+          ],
+          "nearAirports": [
+            "Aéroport Charles de Gaulle",
+            "Aéroport du Bourget"
+          ],
+          "nearCities": [
+            "pierrefitte-sur-seine",
+            "saint-denis",
+            "aubervilliers"
+          ]
+        },
+        {
+          "name": "Sevran",
+          "postalCode": "93270",
+          "slug": "sevran",
+          "localText": "Taxi conventionné et VSL à Sevran (93270) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques de Seine-Saint-Denis et de Paris.",
+          "nearHospitals": [
+            "Hôpital Bichat",
+            "Hôpital Lariboisière",
+            "Hôpital Saint-Louis"
+          ],
+          "nearStations": [
+            "Gare du Nord",
+            "Gare de l'Est"
+          ],
+          "nearAirports": [
+            "Aéroport Charles de Gaulle",
+            "Aéroport du Bourget"
+          ],
+          "nearCities": [
+            "aubervilliers",
+            "epinay-sur-seine",
+            "la-courneuve"
+          ]
+        },
+        {
+          "name": "Stains",
+          "postalCode": "93240",
+          "slug": "stains",
+          "localText": "Taxi conventionné et VSL à Stains (93240) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques de Seine-Saint-Denis et de Paris.",
+          "nearHospitals": [
+            "Hôpital Bichat",
+            "Hôpital Lariboisière",
+            "Hôpital Saint-Louis"
+          ],
+          "nearStations": [
+            "Gare du Nord",
+            "Gare de l'Est"
+          ],
+          "nearAirports": [
+            "Aéroport Charles de Gaulle",
+            "Aéroport du Bourget"
+          ],
+          "nearCities": [
+            "saint-denis",
+            "rosny-sous-bois",
+            "tremblay-en-france",
+            "le-blanc-mesnil",
+            "le-bourget"
+          ]
+        },
+        {
+          "name": "Tremblay-en-France",
+          "postalCode": "93290",
+          "slug": "tremblay-en-france",
+          "localText": "Taxi conventionné et VSL à Tremblay-en-France (93290) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques de Seine-Saint-Denis et de Paris.",
+          "nearHospitals": [
+            "Hôpital Bichat",
+            "Hôpital Lariboisière",
+            "Hôpital Saint-Louis",
+            "Hôpital Robert Debré"
+          ],
+          "nearStations": [
+            "Gare du Nord",
+            "Gare de l'Est"
+          ],
+          "nearAirports": [
+            "Aéroport Charles de Gaulle",
+            "Aéroport du Bourget"
+          ],
+          "nearCities": [
+            "pantin",
+            "saint-denis",
+            "noisy-le-grand"
+          ]
+        },
+        {
+          "name": "Vaujours",
+          "postalCode": "93410",
+          "slug": "vaujours",
+          "localText": "Taxi conventionné et VSL à Vaujours (93410) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques de Seine-Saint-Denis et de Paris.",
+          "nearHospitals": [
+            "Hôpital Bichat",
+            "Hôpital Lariboisière"
+          ],
+          "nearStations": [
+            "Gare du Nord",
+            "Gare de l'Est"
+          ],
+          "nearAirports": [
+            "Aéroport Charles de Gaulle",
+            "Aéroport du Bourget"
+          ],
+          "nearCities": [
+            "aulnay-sous-bois",
+            "clichy-sous-bois",
+            "noisy-le-sec"
+          ]
+        },
+        {
+          "name": "Villemomble",
+          "postalCode": "93250",
+          "slug": "villemomble",
+          "localText": "Taxi conventionné et VSL à Villemomble (93250) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques de Seine-Saint-Denis et de Paris.",
+          "nearHospitals": [
+            "Hôpital Bichat",
+            "Hôpital Lariboisière",
+            "Hôpital Saint-Louis"
+          ],
+          "nearStations": [
+            "Gare du Nord",
+            "Gare de l'Est"
+          ],
+          "nearAirports": [
+            "Aéroport Charles de Gaulle",
+            "Aéroport du Bourget"
+          ],
+          "nearCities": [
+            "pantin",
+            "pierrefitte-sur-seine",
+            "neuilly-sur-marne",
+            "tremblay-en-france",
+            "le-bourget"
+          ]
+        },
+        {
+          "name": "Villepinte",
+          "postalCode": "93420",
+          "slug": "villepinte",
+          "localText": "Taxi conventionné et VSL à Villepinte (93420) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques de Seine-Saint-Denis et de Paris.",
+          "nearHospitals": [
+            "Hôpital Bichat",
+            "Hôpital Lariboisière"
+          ],
+          "nearStations": [
+            "Gare du Nord",
+            "Gare de l'Est"
+          ],
+          "nearAirports": [
+            "Aéroport Charles de Gaulle",
+            "Aéroport du Bourget"
+          ],
+          "nearCities": [
+            "clichy-sous-bois",
+            "montfermeil",
+            "pierrefitte-sur-seine",
+            "le-pre-saint-gervais",
+            "villetaneuse"
+          ]
+        },
+        {
+          "name": "Villetaneuse",
+          "postalCode": "93430",
+          "slug": "villetaneuse",
+          "localText": "Taxi conventionné et VSL à Villetaneuse (93430) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques de Seine-Saint-Denis et de Paris.",
+          "nearHospitals": [
+            "Hôpital Bichat",
+            "Hôpital Lariboisière"
+          ],
+          "nearStations": [
+            "Gare du Nord",
+            "Gare de l'Est"
+          ],
+          "nearAirports": [
+            "Aéroport Charles de Gaulle",
+            "Aéroport du Bourget"
+          ],
+          "nearCities": [
+            "bagnolet",
+            "saint-denis",
+            "le-raincy",
+            "neuilly-plaisance"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "94",
+      "name": "Val-de-Marne",
+      "slug": "taxi-conventionne-val-de-marne-94",
+      "metaTitle": "Taxi conventionné & VSL Val-de-Marne (94) | VSL et transport médical",
+      "metaDescription": "Taxi conventionné & VSL dans le Val-de-Marne (94). Transport médical assis vers hôpitaux et cliniques, tiers-payant selon prescription.",
+      "h1": "Taxi conventionné & VSL dans le Val-de-Marne (94)",
+      "content": "<p>Notre service de taxi conventionné & VSL intervient dans tout le Val-de-Marne (94). Nous assurons vos déplacements médicaux vers Paris et l’Île-de-France.</p>",
+      "cities": [
+        {
+          "name": "Ablon-sur-Seine",
+          "postalCode": "94480",
+          "slug": "ablon-sur-seine",
+          "localText": "Taxi conventionné et VSL à Ablon-sur-Seine (94480) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques du Val-de-Marne et de Paris.",
+          "nearHospitals": [
+            "Hôpital Tenon",
+            "Hôpital Saint-Antoine",
+            "Hôpital Trousseau"
+          ],
+          "nearStations": [
+            "Gare de Lyon"
+          ],
+          "nearAirports": [
+            "Aéroport Charles de Gaulle"
+          ],
+          "nearCities": [
+            "fontenay-sous-bois",
+            "maisons-alfort",
+            "mandres-les-roses",
+            "marolles-en-brie",
+            "la-queue-en-brie"
+          ]
+        },
+        {
+          "name": "Alfortville",
+          "postalCode": "94140",
+          "slug": "alfortville",
+          "localText": "Taxi conventionné et VSL à Alfortville (94140) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques du Val-de-Marne et de Paris.",
+          "nearHospitals": [
+            "Hôpital Tenon",
+            "Hôpital Saint-Antoine",
+            "Hôpital Trousseau",
+            "Hôpital Rothschild"
+          ],
+          "nearStations": [
+            "Gare de Lyon",
+            "Gare de l'Est"
+          ],
+          "nearAirports": [
+            "Aéroport Charles de Gaulle"
+          ],
+          "nearCities": [
+            "ablon-sur-seine",
+            "rungis",
+            "orly"
+          ]
+        },
+        {
+          "name": "Arcueil",
+          "postalCode": "94110",
+          "slug": "arcueil",
+          "localText": "Taxi conventionné et VSL à Arcueil (94110) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques du Val-de-Marne et de Paris.",
+          "nearHospitals": [
+            "Hôpital Tenon",
+            "Hôpital Saint-Antoine"
+          ],
+          "nearStations": [
+            "Gare de Lyon",
+            "Gare de l'Est"
+          ],
+          "nearAirports": [
+            "Aéroport Charles de Gaulle"
+          ],
+          "nearCities": [
+            "bonneuil-sur-marne",
+            "charenton-le-pont",
+            "chevilly-larue"
+          ]
+        },
+        {
+          "name": "Boissy-Saint-Léger",
+          "postalCode": "94470",
+          "slug": "boissy-saint-leger",
+          "localText": "Taxi conventionné et VSL à Boissy-Saint-Léger (94470) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques du Val-de-Marne et de Paris.",
+          "nearHospitals": [
+            "Hôpital Tenon",
+            "Hôpital Saint-Antoine",
+            "Hôpital Trousseau"
+          ],
+          "nearStations": [
+            "Gare de Lyon",
+            "Gare de l'Est"
+          ],
+          "nearAirports": [
+            "Aéroport Charles de Gaulle"
+          ],
+          "nearCities": [
+            "rungis",
+            "arcueil",
+            "saint-maurice"
+          ]
+        },
+        {
+          "name": "Bonneuil-sur-Marne",
+          "postalCode": "94380",
+          "slug": "bonneuil-sur-marne",
+          "localText": "Taxi conventionné et VSL à Bonneuil-sur-Marne (94380) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques du Val-de-Marne et de Paris.",
+          "nearHospitals": [
+            "Hôpital Tenon",
+            "Hôpital Saint-Antoine",
+            "Hôpital Trousseau",
+            "Hôpital Rothschild"
+          ],
+          "nearStations": [
+            "Gare de Lyon",
+            "Gare de l'Est"
+          ],
+          "nearAirports": [
+            "Aéroport Charles de Gaulle"
+          ],
+          "nearCities": [
+            "vitry-sur-seine",
+            "arcueil",
+            "saint-mande",
+            "ablon-sur-seine",
+            "villecresnes"
+          ]
+        },
+        {
+          "name": "Bry-sur-Marne",
+          "postalCode": "94360",
+          "slug": "bry-sur-marne",
+          "localText": "Taxi conventionné et VSL à Bry-sur-Marne (94360) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques du Val-de-Marne et de Paris.",
+          "nearHospitals": [
+            "Hôpital Tenon",
+            "Hôpital Saint-Antoine",
+            "Hôpital Trousseau",
+            "Hôpital Rothschild"
+          ],
+          "nearStations": [
+            "Gare de Lyon"
+          ],
+          "nearAirports": [
+            "Aéroport Charles de Gaulle"
+          ],
+          "nearCities": [
+            "l-hay-les-roses",
+            "le-kremlin-bicetre",
+            "mandres-les-roses",
+            "alfortville"
+          ]
+        },
+        {
+          "name": "Cachan",
+          "postalCode": "94230",
+          "slug": "cachan",
+          "localText": "Taxi conventionné et VSL à Cachan (94230) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques du Val-de-Marne et de Paris.",
+          "nearHospitals": [
+            "Hôpital Tenon",
+            "Hôpital Saint-Antoine"
+          ],
+          "nearStations": [
+            "Gare de Lyon",
+            "Gare de l'Est"
+          ],
+          "nearAirports": [
+            "Aéroport Charles de Gaulle"
+          ],
+          "nearCities": [
+            "boissy-saint-leger",
+            "creteil",
+            "l-hay-les-roses",
+            "arcueil",
+            "champigny-sur-marne"
+          ]
+        },
+        {
+          "name": "Champigny-sur-Marne",
+          "postalCode": "94500",
+          "slug": "champigny-sur-marne",
+          "localText": "Taxi conventionné et VSL à Champigny-sur-Marne (94500) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques du Val-de-Marne et de Paris.",
+          "nearHospitals": [
+            "Hôpital Tenon",
+            "Hôpital Saint-Antoine"
+          ],
+          "nearStations": [
+            "Gare de Lyon",
+            "Gare de l'Est"
+          ],
+          "nearAirports": [
+            "Aéroport Charles de Gaulle"
+          ],
+          "nearCities": [
+            "villeneuve-le-roi",
+            "cachan",
+            "bry-sur-marne"
+          ]
+        },
+        {
+          "name": "Charenton-le-Pont",
+          "postalCode": "94220",
+          "slug": "charenton-le-pont",
+          "localText": "Taxi conventionné et VSL à Charenton-le-Pont (94220) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques du Val-de-Marne et de Paris.",
+          "nearHospitals": [
+            "Hôpital Tenon",
+            "Hôpital Saint-Antoine"
+          ],
+          "nearStations": [
+            "Gare de Lyon",
+            "Gare de l'Est"
+          ],
+          "nearAirports": [
+            "Aéroport Charles de Gaulle"
+          ],
+          "nearCities": [
+            "thiais",
+            "villeneuve-saint-georges",
+            "fresnes"
+          ]
+        },
+        {
+          "name": "Chennevières-sur-Marne",
+          "postalCode": "94430",
+          "slug": "chennevieres-sur-marne",
+          "localText": "Taxi conventionné et VSL à Chennevières-sur-Marne (94430) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques du Val-de-Marne et de Paris.",
+          "nearHospitals": [
+            "Hôpital Tenon",
+            "Hôpital Saint-Antoine",
+            "Hôpital Trousseau"
+          ],
+          "nearStations": [
+            "Gare de Lyon",
+            "Gare de l'Est"
+          ],
+          "nearAirports": [
+            "Aéroport Charles de Gaulle"
+          ],
+          "nearCities": [
+            "arcueil",
+            "gentilly",
+            "sucy-en-brie"
+          ]
+        },
+        {
+          "name": "Chevilly-Larue",
+          "postalCode": "94550",
+          "slug": "chevilly-larue",
+          "localText": "Taxi conventionné et VSL à Chevilly-Larue (94550) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques du Val-de-Marne et de Paris.",
+          "nearHospitals": [
+            "Hôpital Tenon",
+            "Hôpital Saint-Antoine",
+            "Hôpital Trousseau",
+            "Hôpital Rothschild"
+          ],
+          "nearStations": [
+            "Gare de Lyon"
+          ],
+          "nearAirports": [
+            "Aéroport Charles de Gaulle"
+          ],
+          "nearCities": [
+            "chennevieres-sur-marne",
+            "la-queue-en-brie",
+            "nogent-sur-marne"
+          ]
+        },
+        {
+          "name": "Choisy-le-Roi",
+          "postalCode": "94600",
+          "slug": "choisy-le-roi",
+          "localText": "Taxi conventionné et VSL à Choisy-le-Roi (94600) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques du Val-de-Marne et de Paris.",
+          "nearHospitals": [
+            "Hôpital Tenon",
+            "Hôpital Saint-Antoine",
+            "Hôpital Trousseau",
+            "Hôpital Rothschild"
+          ],
+          "nearStations": [
+            "Gare de Lyon"
+          ],
+          "nearAirports": [
+            "Aéroport Charles de Gaulle"
+          ],
+          "nearCities": [
+            "le-plessis-trevise",
+            "villiers-sur-marne",
+            "arcueil",
+            "fresnes"
+          ]
+        },
+        {
+          "name": "Créteil",
+          "postalCode": "94000",
+          "slug": "creteil",
+          "localText": "Taxi conventionné et VSL à Créteil (94000) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques du Val-de-Marne et de Paris.",
+          "nearHospitals": [
+            "Hôpital Tenon",
+            "Hôpital Saint-Antoine",
+            "Hôpital Trousseau"
+          ],
+          "nearStations": [
+            "Gare de Lyon"
+          ],
+          "nearAirports": [
+            "Aéroport Charles de Gaulle"
+          ],
+          "nearCities": [
+            "gentilly",
+            "joinville-le-pont",
+            "chevilly-larue",
+            "vincennes"
+          ]
+        },
+        {
+          "name": "Fontenay-sous-Bois",
+          "postalCode": "94120",
+          "slug": "fontenay-sous-bois",
+          "localText": "Taxi conventionné et VSL à Fontenay-sous-Bois (94120) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques du Val-de-Marne et de Paris.",
+          "nearHospitals": [
+            "Hôpital Tenon",
+            "Hôpital Saint-Antoine",
+            "Hôpital Trousseau",
+            "Hôpital Rothschild"
+          ],
+          "nearStations": [
+            "Gare de Lyon"
+          ],
+          "nearAirports": [
+            "Aéroport Charles de Gaulle"
+          ],
+          "nearCities": [
+            "valenton",
+            "alfortville",
+            "vitry-sur-seine"
+          ]
+        },
+        {
+          "name": "Fresnes",
+          "postalCode": "94260",
+          "slug": "fresnes",
+          "localText": "Taxi conventionné et VSL à Fresnes (94260) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques du Val-de-Marne et de Paris.",
+          "nearHospitals": [
+            "Hôpital Tenon",
+            "Hôpital Saint-Antoine"
+          ],
+          "nearStations": [
+            "Gare de Lyon",
+            "Gare de l'Est"
+          ],
+          "nearAirports": [
+            "Aéroport Charles de Gaulle"
+          ],
+          "nearCities": [
+            "vitry-sur-seine",
+            "l-hay-les-roses",
+            "mandres-les-roses",
+            "joinville-le-pont",
+            "bry-sur-marne"
+          ]
+        },
+        {
+          "name": "Gentilly",
+          "postalCode": "94250",
+          "slug": "gentilly",
+          "localText": "Taxi conventionné et VSL à Gentilly (94250) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques du Val-de-Marne et de Paris.",
+          "nearHospitals": [
+            "Hôpital Tenon",
+            "Hôpital Saint-Antoine",
+            "Hôpital Trousseau"
+          ],
+          "nearStations": [
+            "Gare de Lyon"
+          ],
+          "nearAirports": [
+            "Aéroport Charles de Gaulle"
+          ],
+          "nearCities": [
+            "bonneuil-sur-marne",
+            "noiseau",
+            "cachan",
+            "l-hay-les-roses"
+          ]
+        },
+        {
+          "name": "L'Haÿ-les-Roses",
+          "postalCode": "94240",
+          "slug": "l-hay-les-roses",
+          "localText": "Taxi conventionné et VSL à L'Haÿ-les-Roses (94240) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques du Val-de-Marne et de Paris.",
+          "nearHospitals": [
+            "Hôpital Tenon",
+            "Hôpital Saint-Antoine",
+            "Hôpital Trousseau"
+          ],
+          "nearStations": [
+            "Gare de Lyon",
+            "Gare de l'Est"
+          ],
+          "nearAirports": [
+            "Aéroport Charles de Gaulle"
+          ],
+          "nearCities": [
+            "perigny",
+            "arcueil",
+            "villecresnes",
+            "alfortville",
+            "nogent-sur-marne"
+          ]
+        },
+        {
+          "name": "Ivry-sur-Seine",
+          "postalCode": "94200",
+          "slug": "ivry-sur-seine",
+          "localText": "Taxi conventionné et VSL à Ivry-sur-Seine (94200) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques du Val-de-Marne et de Paris.",
+          "nearHospitals": [
+            "Hôpital Tenon",
+            "Hôpital Saint-Antoine",
+            "Hôpital Trousseau",
+            "Hôpital Rothschild"
+          ],
+          "nearStations": [
+            "Gare de Lyon",
+            "Gare de l'Est"
+          ],
+          "nearAirports": [
+            "Aéroport Charles de Gaulle"
+          ],
+          "nearCities": [
+            "arcueil",
+            "alfortville",
+            "charenton-le-pont"
+          ]
+        },
+        {
+          "name": "Joinville-le-Pont",
+          "postalCode": "94340",
+          "slug": "joinville-le-pont",
+          "localText": "Taxi conventionné et VSL à Joinville-le-Pont (94340) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques du Val-de-Marne et de Paris.",
+          "nearHospitals": [
+            "Hôpital Tenon",
+            "Hôpital Saint-Antoine",
+            "Hôpital Trousseau",
+            "Hôpital Rothschild"
+          ],
+          "nearStations": [
+            "Gare de Lyon",
+            "Gare de l'Est"
+          ],
+          "nearAirports": [
+            "Aéroport Charles de Gaulle"
+          ],
+          "nearCities": [
+            "villecresnes",
+            "l-hay-les-roses",
+            "vitry-sur-seine",
+            "ablon-sur-seine",
+            "limeil-brevannes"
+          ]
+        },
+        {
+          "name": "Le Kremlin-Bicêtre",
+          "postalCode": "94270",
+          "slug": "le-kremlin-bicetre",
+          "localText": "Taxi conventionné et VSL à Le Kremlin-Bicêtre (94270) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques du Val-de-Marne et de Paris.",
+          "nearHospitals": [
+            "Hôpital Tenon",
+            "Hôpital Saint-Antoine",
+            "Hôpital Trousseau",
+            "Hôpital Rothschild"
+          ],
+          "nearStations": [
+            "Gare de Lyon"
+          ],
+          "nearAirports": [
+            "Aéroport Charles de Gaulle"
+          ],
+          "nearCities": [
+            "maisons-alfort",
+            "mandres-les-roses",
+            "ivry-sur-seine",
+            "bry-sur-marne",
+            "perigny"
+          ]
+        },
+        {
+          "name": "Limeil-Brévannes",
+          "postalCode": "94450",
+          "slug": "limeil-brevannes",
+          "localText": "Taxi conventionné et VSL à Limeil-Brévannes (94450) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques du Val-de-Marne et de Paris.",
+          "nearHospitals": [
+            "Hôpital Tenon",
+            "Hôpital Saint-Antoine"
+          ],
+          "nearStations": [
+            "Gare de Lyon",
+            "Gare de l'Est"
+          ],
+          "nearAirports": [
+            "Aéroport Charles de Gaulle"
+          ],
+          "nearCities": [
+            "sucy-en-brie",
+            "chevilly-larue",
+            "thiais",
+            "le-plessis-trevise",
+            "cachan"
+          ]
+        },
+        {
+          "name": "Maisons-Alfort",
+          "postalCode": "94700",
+          "slug": "maisons-alfort",
+          "localText": "Taxi conventionné et VSL à Maisons-Alfort (94700) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques du Val-de-Marne et de Paris.",
+          "nearHospitals": [
+            "Hôpital Tenon",
+            "Hôpital Saint-Antoine"
+          ],
+          "nearStations": [
+            "Gare de Lyon",
+            "Gare de l'Est"
+          ],
+          "nearAirports": [
+            "Aéroport Charles de Gaulle"
+          ],
+          "nearCities": [
+            "le-plessis-trevise",
+            "bry-sur-marne",
+            "vitry-sur-seine"
+          ]
+        },
+        {
+          "name": "Mandres-les-Roses",
+          "postalCode": "94520",
+          "slug": "mandres-les-roses",
+          "localText": "Taxi conventionné et VSL à Mandres-les-Roses (94520) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques du Val-de-Marne et de Paris.",
+          "nearHospitals": [
+            "Hôpital Tenon",
+            "Hôpital Saint-Antoine",
+            "Hôpital Trousseau",
+            "Hôpital Rothschild"
+          ],
+          "nearStations": [
+            "Gare de Lyon",
+            "Gare de l'Est"
+          ],
+          "nearAirports": [
+            "Aéroport Charles de Gaulle"
+          ],
+          "nearCities": [
+            "vincennes",
+            "ablon-sur-seine",
+            "alfortville",
+            "villecresnes",
+            "ormesson-sur-marne"
+          ]
+        },
+        {
+          "name": "Marolles-en-Brie",
+          "postalCode": "94440",
+          "slug": "marolles-en-brie",
+          "localText": "Taxi conventionné et VSL à Marolles-en-Brie (94440) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques du Val-de-Marne et de Paris.",
+          "nearHospitals": [
+            "Hôpital Tenon",
+            "Hôpital Saint-Antoine",
+            "Hôpital Trousseau",
+            "Hôpital Rothschild"
+          ],
+          "nearStations": [
+            "Gare de Lyon",
+            "Gare de l'Est"
+          ],
+          "nearAirports": [
+            "Aéroport Charles de Gaulle"
+          ],
+          "nearCities": [
+            "chevilly-larue",
+            "l-hay-les-roses",
+            "noiseau",
+            "saint-maur-des-fosses",
+            "villiers-sur-marne"
+          ]
+        },
+        {
+          "name": "Nogent-sur-Marne",
+          "postalCode": "94130",
+          "slug": "nogent-sur-marne",
+          "localText": "Taxi conventionné et VSL à Nogent-sur-Marne (94130) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques du Val-de-Marne et de Paris.",
+          "nearHospitals": [
+            "Hôpital Tenon",
+            "Hôpital Saint-Antoine"
+          ],
+          "nearStations": [
+            "Gare de Lyon",
+            "Gare de l'Est"
+          ],
+          "nearAirports": [
+            "Aéroport Charles de Gaulle"
+          ],
+          "nearCities": [
+            "la-queue-en-brie",
+            "ivry-sur-seine",
+            "vincennes"
+          ]
+        },
+        {
+          "name": "Noiseau",
+          "postalCode": "94880",
+          "slug": "noiseau",
+          "localText": "Taxi conventionné et VSL à Noiseau (94880) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques du Val-de-Marne et de Paris.",
+          "nearHospitals": [
+            "Hôpital Tenon",
+            "Hôpital Saint-Antoine",
+            "Hôpital Trousseau"
+          ],
+          "nearStations": [
+            "Gare de Lyon",
+            "Gare de l'Est"
+          ],
+          "nearAirports": [
+            "Aéroport Charles de Gaulle"
+          ],
+          "nearCities": [
+            "villeneuve-saint-georges",
+            "villejuif",
+            "vitry-sur-seine"
+          ]
+        },
+        {
+          "name": "Orly",
+          "postalCode": "94310",
+          "slug": "orly",
+          "localText": "Taxi conventionné et VSL à Orly (94310) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques du Val-de-Marne et de Paris.",
+          "nearHospitals": [
+            "Hôpital Tenon",
+            "Hôpital Saint-Antoine",
+            "Hôpital Trousseau",
+            "Hôpital Rothschild"
+          ],
+          "nearStations": [
+            "Gare de Lyon",
+            "Gare de l'Est"
+          ],
+          "nearAirports": [
+            "Aéroport Charles de Gaulle"
+          ],
+          "nearCities": [
+            "marolles-en-brie",
+            "ormesson-sur-marne",
+            "le-plessis-trevise"
+          ]
+        },
+        {
+          "name": "Ormesson-sur-Marne",
+          "postalCode": "94490",
+          "slug": "ormesson-sur-marne",
+          "localText": "Taxi conventionné et VSL à Ormesson-sur-Marne (94490) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques du Val-de-Marne et de Paris.",
+          "nearHospitals": [
+            "Hôpital Tenon",
+            "Hôpital Saint-Antoine",
+            "Hôpital Trousseau",
+            "Hôpital Rothschild"
+          ],
+          "nearStations": [
+            "Gare de Lyon",
+            "Gare de l'Est"
+          ],
+          "nearAirports": [
+            "Aéroport Charles de Gaulle"
+          ],
+          "nearCities": [
+            "la-queue-en-brie",
+            "bonneuil-sur-marne",
+            "noiseau",
+            "le-plessis-trevise",
+            "arcueil"
+          ]
+        },
+        {
+          "name": "Périgny",
+          "postalCode": "94520",
+          "slug": "perigny",
+          "localText": "Taxi conventionné et VSL à Périgny (94520) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques du Val-de-Marne et de Paris.",
+          "nearHospitals": [
+            "Hôpital Tenon",
+            "Hôpital Saint-Antoine",
+            "Hôpital Trousseau",
+            "Hôpital Rothschild"
+          ],
+          "nearStations": [
+            "Gare de Lyon",
+            "Gare de l'Est"
+          ],
+          "nearAirports": [
+            "Aéroport Charles de Gaulle"
+          ],
+          "nearCities": [
+            "bonneuil-sur-marne",
+            "gentilly",
+            "le-kremlin-bicetre"
+          ]
+        },
+        {
+          "name": "Le Perreux-sur-Marne",
+          "postalCode": "94170",
+          "slug": "le-perreux-sur-marne",
+          "localText": "Taxi conventionné et VSL à Le Perreux-sur-Marne (94170) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques du Val-de-Marne et de Paris.",
+          "nearHospitals": [
+            "Hôpital Tenon",
+            "Hôpital Saint-Antoine",
+            "Hôpital Trousseau"
+          ],
+          "nearStations": [
+            "Gare de Lyon",
+            "Gare de l'Est"
+          ],
+          "nearAirports": [
+            "Aéroport Charles de Gaulle"
+          ],
+          "nearCities": [
+            "la-queue-en-brie",
+            "charenton-le-pont",
+            "santeny"
+          ]
+        },
+        {
+          "name": "Le Plessis-Trévise",
+          "postalCode": "94420",
+          "slug": "le-plessis-trevise",
+          "localText": "Taxi conventionné et VSL à Le Plessis-Trévise (94420) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques du Val-de-Marne et de Paris.",
+          "nearHospitals": [
+            "Hôpital Tenon",
+            "Hôpital Saint-Antoine",
+            "Hôpital Trousseau"
+          ],
+          "nearStations": [
+            "Gare de Lyon"
+          ],
+          "nearAirports": [
+            "Aéroport Charles de Gaulle"
+          ],
+          "nearCities": [
+            "ormesson-sur-marne",
+            "mandres-les-roses",
+            "l-hay-les-roses",
+            "fresnes"
+          ]
+        },
+        {
+          "name": "La Queue-en-Brie",
+          "postalCode": "94510",
+          "slug": "la-queue-en-brie",
+          "localText": "Taxi conventionné et VSL à La Queue-en-Brie (94510) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques du Val-de-Marne et de Paris.",
+          "nearHospitals": [
+            "Hôpital Tenon",
+            "Hôpital Saint-Antoine"
+          ],
+          "nearStations": [
+            "Gare de Lyon",
+            "Gare de l'Est"
+          ],
+          "nearAirports": [
+            "Aéroport Charles de Gaulle"
+          ],
+          "nearCities": [
+            "fresnes",
+            "mandres-les-roses",
+            "limeil-brevannes",
+            "le-perreux-sur-marne"
+          ]
+        },
+        {
+          "name": "Rungis",
+          "postalCode": "94150",
+          "slug": "rungis",
+          "localText": "Taxi conventionné et VSL à Rungis (94150) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques du Val-de-Marne et de Paris.",
+          "nearHospitals": [
+            "Hôpital Tenon",
+            "Hôpital Saint-Antoine"
+          ],
+          "nearStations": [
+            "Gare de Lyon"
+          ],
+          "nearAirports": [
+            "Aéroport Charles de Gaulle"
+          ],
+          "nearCities": [
+            "santeny",
+            "perigny",
+            "thiais"
+          ]
+        },
+        {
+          "name": "Saint-Mandé",
+          "postalCode": "94160",
+          "slug": "saint-mande",
+          "localText": "Taxi conventionné et VSL à Saint-Mandé (94160) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques du Val-de-Marne et de Paris.",
+          "nearHospitals": [
+            "Hôpital Tenon",
+            "Hôpital Saint-Antoine"
+          ],
+          "nearStations": [
+            "Gare de Lyon"
+          ],
+          "nearAirports": [
+            "Aéroport Charles de Gaulle"
+          ],
+          "nearCities": [
+            "ablon-sur-seine",
+            "arcueil",
+            "fontenay-sous-bois",
+            "villeneuve-le-roi"
+          ]
+        },
+        {
+          "name": "Saint-Maur-des-Fossés",
+          "postalCode": "94100",
+          "slug": "saint-maur-des-fosses",
+          "localText": "Taxi conventionné et VSL à Saint-Maur-des-Fossés (94100) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques du Val-de-Marne et de Paris.",
+          "nearHospitals": [
+            "Hôpital Tenon",
+            "Hôpital Saint-Antoine",
+            "Hôpital Trousseau",
+            "Hôpital Rothschild"
+          ],
+          "nearStations": [
+            "Gare de Lyon"
+          ],
+          "nearAirports": [
+            "Aéroport Charles de Gaulle"
+          ],
+          "nearCities": [
+            "cachan",
+            "arcueil",
+            "villeneuve-saint-georges",
+            "saint-maurice"
+          ]
+        },
+        {
+          "name": "Saint-Maurice",
+          "postalCode": "94410",
+          "slug": "saint-maurice",
+          "localText": "Taxi conventionné et VSL à Saint-Maurice (94410) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques du Val-de-Marne et de Paris.",
+          "nearHospitals": [
+            "Hôpital Tenon",
+            "Hôpital Saint-Antoine"
+          ],
+          "nearStations": [
+            "Gare de Lyon",
+            "Gare de l'Est"
+          ],
+          "nearAirports": [
+            "Aéroport Charles de Gaulle"
+          ],
+          "nearCities": [
+            "santeny",
+            "ablon-sur-seine",
+            "alfortville",
+            "orly",
+            "chennevieres-sur-marne"
+          ]
+        },
+        {
+          "name": "Santeny",
+          "postalCode": "94440",
+          "slug": "santeny",
+          "localText": "Taxi conventionné et VSL à Santeny (94440) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques du Val-de-Marne et de Paris.",
+          "nearHospitals": [
+            "Hôpital Tenon",
+            "Hôpital Saint-Antoine",
+            "Hôpital Trousseau",
+            "Hôpital Rothschild"
+          ],
+          "nearStations": [
+            "Gare de Lyon",
+            "Gare de l'Est"
+          ],
+          "nearAirports": [
+            "Aéroport Charles de Gaulle"
+          ],
+          "nearCities": [
+            "bonneuil-sur-marne",
+            "chennevieres-sur-marne",
+            "fontenay-sous-bois"
+          ]
+        },
+        {
+          "name": "Sucy-en-Brie",
+          "postalCode": "94370",
+          "slug": "sucy-en-brie",
+          "localText": "Taxi conventionné et VSL à Sucy-en-Brie (94370) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques du Val-de-Marne et de Paris.",
+          "nearHospitals": [
+            "Hôpital Tenon",
+            "Hôpital Saint-Antoine",
+            "Hôpital Trousseau",
+            "Hôpital Rothschild"
+          ],
+          "nearStations": [
+            "Gare de Lyon"
+          ],
+          "nearAirports": [
+            "Aéroport Charles de Gaulle"
+          ],
+          "nearCities": [
+            "mandres-les-roses",
+            "ivry-sur-seine",
+            "villejuif"
+          ]
+        },
+        {
+          "name": "Thiais",
+          "postalCode": "94320",
+          "slug": "thiais",
+          "localText": "Taxi conventionné et VSL à Thiais (94320) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques du Val-de-Marne et de Paris.",
+          "nearHospitals": [
+            "Hôpital Tenon",
+            "Hôpital Saint-Antoine",
+            "Hôpital Trousseau",
+            "Hôpital Rothschild"
+          ],
+          "nearStations": [
+            "Gare de Lyon"
+          ],
+          "nearAirports": [
+            "Aéroport Charles de Gaulle"
+          ],
+          "nearCities": [
+            "maisons-alfort",
+            "cachan",
+            "chennevieres-sur-marne",
+            "saint-maurice"
+          ]
+        },
+        {
+          "name": "Valenton",
+          "postalCode": "94460",
+          "slug": "valenton",
+          "localText": "Taxi conventionné et VSL à Valenton (94460) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques du Val-de-Marne et de Paris.",
+          "nearHospitals": [
+            "Hôpital Tenon",
+            "Hôpital Saint-Antoine",
+            "Hôpital Trousseau"
+          ],
+          "nearStations": [
+            "Gare de Lyon",
+            "Gare de l'Est"
+          ],
+          "nearAirports": [
+            "Aéroport Charles de Gaulle"
+          ],
+          "nearCities": [
+            "ablon-sur-seine",
+            "le-kremlin-bicetre",
+            "l-hay-les-roses",
+            "villeneuve-le-roi"
+          ]
+        },
+        {
+          "name": "Villecresnes",
+          "postalCode": "94440",
+          "slug": "villecresnes",
+          "localText": "Taxi conventionné et VSL à Villecresnes (94440) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques du Val-de-Marne et de Paris.",
+          "nearHospitals": [
+            "Hôpital Tenon",
+            "Hôpital Saint-Antoine",
+            "Hôpital Trousseau"
+          ],
+          "nearStations": [
+            "Gare de Lyon",
+            "Gare de l'Est"
+          ],
+          "nearAirports": [
+            "Aéroport Charles de Gaulle"
+          ],
+          "nearCities": [
+            "vincennes",
+            "arcueil",
+            "fontenay-sous-bois",
+            "alfortville"
+          ]
+        },
+        {
+          "name": "Villejuif",
+          "postalCode": "94800",
+          "slug": "villejuif",
+          "localText": "Taxi conventionné et VSL à Villejuif (94800) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques du Val-de-Marne et de Paris.",
+          "nearHospitals": [
+            "Hôpital Tenon",
+            "Hôpital Saint-Antoine"
+          ],
+          "nearStations": [
+            "Gare de Lyon",
+            "Gare de l'Est"
+          ],
+          "nearAirports": [
+            "Aéroport Charles de Gaulle"
+          ],
+          "nearCities": [
+            "charenton-le-pont",
+            "ormesson-sur-marne",
+            "gentilly",
+            "marolles-en-brie"
+          ]
+        },
+        {
+          "name": "Villeneuve-le-Roi",
+          "postalCode": "94290",
+          "slug": "villeneuve-le-roi",
+          "localText": "Taxi conventionné et VSL à Villeneuve-le-Roi (94290) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques du Val-de-Marne et de Paris.",
+          "nearHospitals": [
+            "Hôpital Tenon",
+            "Hôpital Saint-Antoine"
+          ],
+          "nearStations": [
+            "Gare de Lyon"
+          ],
+          "nearAirports": [
+            "Aéroport Charles de Gaulle"
+          ],
+          "nearCities": [
+            "fresnes",
+            "orly",
+            "marolles-en-brie",
+            "chennevieres-sur-marne",
+            "perigny"
+          ]
+        },
+        {
+          "name": "Villeneuve-Saint-Georges",
+          "postalCode": "94190",
+          "slug": "villeneuve-saint-georges",
+          "localText": "Taxi conventionné et VSL à Villeneuve-Saint-Georges (94190) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques du Val-de-Marne et de Paris.",
+          "nearHospitals": [
+            "Hôpital Tenon",
+            "Hôpital Saint-Antoine",
+            "Hôpital Trousseau"
+          ],
+          "nearStations": [
+            "Gare de Lyon",
+            "Gare de l'Est"
+          ],
+          "nearAirports": [
+            "Aéroport Charles de Gaulle"
+          ],
+          "nearCities": [
+            "vitry-sur-seine",
+            "chennevieres-sur-marne",
+            "marolles-en-brie"
+          ]
+        },
+        {
+          "name": "Villiers-sur-Marne",
+          "postalCode": "94350",
+          "slug": "villiers-sur-marne",
+          "localText": "Taxi conventionné et VSL à Villiers-sur-Marne (94350) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques du Val-de-Marne et de Paris.",
+          "nearHospitals": [
+            "Hôpital Tenon",
+            "Hôpital Saint-Antoine",
+            "Hôpital Trousseau",
+            "Hôpital Rothschild"
+          ],
+          "nearStations": [
+            "Gare de Lyon"
+          ],
+          "nearAirports": [
+            "Aéroport Charles de Gaulle"
+          ],
+          "nearCities": [
+            "saint-maur-des-fosses",
+            "marolles-en-brie",
+            "creteil"
+          ]
+        },
+        {
+          "name": "Vincennes",
+          "postalCode": "94300",
+          "slug": "vincennes",
+          "localText": "Taxi conventionné et VSL à Vincennes (94300) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques du Val-de-Marne et de Paris.",
+          "nearHospitals": [
+            "Hôpital Tenon",
+            "Hôpital Saint-Antoine",
+            "Hôpital Trousseau"
+          ],
+          "nearStations": [
+            "Gare de Lyon",
+            "Gare de l'Est"
+          ],
+          "nearAirports": [
+            "Aéroport Charles de Gaulle"
+          ],
+          "nearCities": [
+            "choisy-le-roi",
+            "creteil",
+            "mandres-les-roses",
+            "noiseau"
+          ]
+        },
+        {
+          "name": "Vitry-sur-Seine",
+          "postalCode": "94400",
+          "slug": "vitry-sur-seine",
+          "localText": "Taxi conventionné et VSL à Vitry-sur-Seine (94400) pour vos déplacements médicaux prescrits vers les hôpitaux et cliniques du Val-de-Marne et de Paris.",
+          "nearHospitals": [
+            "Hôpital Tenon",
+            "Hôpital Saint-Antoine"
+          ],
+          "nearStations": [
+            "Gare de Lyon",
+            "Gare de l'Est"
+          ],
+          "nearAirports": [
+            "Aéroport Charles de Gaulle"
+          ],
+          "nearCities": [
+            "perigny",
+            "boissy-saint-leger",
+            "alfortville",
+            "fresnes"
+          ]
+        }
+      ]
+    }
+  ]
+}
