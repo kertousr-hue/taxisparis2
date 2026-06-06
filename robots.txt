@@ -1,0 +1,29 @@
+# robots.txt - Taxi VSL Conventionné CPAM Île-de-France
+# https://www.taxisparis-conventionnes.fr
+
+User-agent: *
+Allow: /
+
+# Disallow admin and sensitive areas only
+Disallow: /admin/
+Disallow: /api/
+
+# Sitemaps
+Sitemap: https://www.taxisparis-conventionnes.fr/sitemap.xml
+
+# Optimized for search engines
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 0
+
+User-agent: Googlebot-Image
+Allow: /
+Disallow: /admin/
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 0
+
+User-agent: Slurp
+Allow: /
+Crawl-delay: 1
